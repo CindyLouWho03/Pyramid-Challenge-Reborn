@@ -1,2 +1,2 @@
-# New-FTB-Retro-2
-Repository for bug reports and requests of New FTB Retro 2
+# Pyramid Challenge Reborn
+Repository for bug reports and requests of Pyramid Challenge Reborn
