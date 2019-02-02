@@ -6,9 +6,13 @@
 
 ## 🚀 Getting Started
 Below you will find anything you need to know about the game. If you want to download a build you can do it from the releases tab or via CurseForge.
-## 📇 Modlist
 
-- [Release](https://minecraft.curseforge.com/projects/outlawed/relations/dependencies)
+## 📇 Modlist
+- [Release](https://minecraft.curseforge.com/projects/pyramid-challenge-reborn/relations/dependencies)
+
+## 📜 Changelog
+- [Release](https://minecraft.curseforge.com/projects/pyramid-challenge-reborn/files)
+- [Development](https://raw.githubusercontent.com/CindyLouWho03/Pyramid-Challenge-Reborn/master/CHANGELOG.md)
 
 ## 🎨 Features
 
@@ -19,7 +23,7 @@ Below you will find anything you need to know about the game. If you want to dow
   
 ## 💾 Playing
 
-Download from [CurseForge](https://minecraft.curseforge.com/projects/outlawed/relations/dependencies), Twitch Client, or the GDLauncher.
+Download from [CurseForge](https://minecraft.curseforge.com/projects/pyramid-challenge-reborn), Twitch Client, or the GDLauncher.
 
 ### ⚙️ Requirements
 You NEED this software installed.
@@ -47,6 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [discordLink]: https://discord.gg/jVXQFNQ
 
-[curseImg]: http://cf.way2muchnoise.eu/294580.svg
+[curseImg]: http://cf.way2muchnoise.eu/251553.svg
 
 [curseLink]: https://minecraft.curseforge.com/projects/pyramid-challenge-reborn
