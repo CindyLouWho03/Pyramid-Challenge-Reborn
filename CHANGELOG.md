@@ -1,21 +1,29 @@
 Changelog 1.1.0 > 1.2.0
 
 Mod Additions:
-- Added Controlling
-- Added Hardcore Map Reset
-- Added Reborn Core
+  - Clumps
+  - Controlling
+	- Hardcore Map Reset
+	- Main Menu Scale
+	- MPUtils
+	- MPUtils Basic Tools
+	- Reborn Core
 
-Mod Removal:
-- Removed Bookshelf
-- Removed GameStages
-- Removed Lockdown
-- Removed PackMode
+Updated:
+	CreativeCore (went from CreativeCore_v1.9.38_mc1.12.2.jar to CreativeCore_v1.9.39_mc1.12.2.jar):
+
+Removed:
+	- World Book
 
 Gameplay Changes:
 - Added the Normal Game Mode.
 
+Techional Changes:
+- Added Fully Fleshed Support for GDLauncher
+
 Squashed Bugs:
 - Fixed the Transmutation Table Bug
+
 
 
 
@@ -36,6 +44,7 @@ Gameplay Changes:
 - Added Tooltips to each quest in JEI.
 - Change the gray button texture to match the main menu.
 - Change the inventory to match the blue theme.
+
 
 
 
