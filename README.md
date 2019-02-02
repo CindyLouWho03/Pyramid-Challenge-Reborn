@@ -1,4 +1,4 @@
-# Outlawed [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
+# Pyramid Challenge Reborn [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
 
 ![love](https://forthebadge.com/images/badges/built-with-love.svg) ![git](https://forthebadge.com/images/badges/uses-git.svg) ![twitch](https://image.ibb.co/k860ep/madewithtwitch.png) ![mc](https://image.ibb.co/g2jWkU/mc.png)
 
