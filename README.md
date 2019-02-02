@@ -1,7 +1,10 @@
 # Pyramid Challenge Reborn [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
 
-![love](https://forthebadge.com/images/badges/built-with-love.svg) ![git](https://forthebadge.com/images/badges/uses-git.svg) ![twitch](https://image.ibb.co/k860ep/madewithtwitch.png) ![mc](https://image.ibb.co/g2jWkU/mc.png)
+![love](https://forthebadge.com/images/badges/built-with-love.svg) ![git](https://forthebadge.com/images/badges/uses-git.svg) ![twitch](https://i.ibb.co/Y2BBw4N/68747470733a2f2f696d6167652e6962622e636f2f6b38363065702f6d616465776974687477697463682e706e67.png) ![mc](https://image.ibb.co/g2jWkU/mc.png)
 
+This 1.12.2 pack is built around FTB Retro SSP. This is the pack their pyramid challenge was based on. That map was designed to test a user’s knowledge of Minecraft mods. Start your adventure, build everything from nothing, and try to feed the beast. The modpack is a recreation of that modpack with the same mods, and the same idea. 
+
+This mod pack is heavily focused on ProjectE and your transmutation table
 
 
 ## 🚀 Getting Started
