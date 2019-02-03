@@ -9,7 +9,7 @@ for /f "delims==; tokens=1,2 eol=;" %%G in (modpack_upload_settings.cfg) do set 
 
 :: Create manifest
 ECHO Making manifest...
-twitch_export-win.exe -d "%appdata%\GDLauncher\instances\packs\Pyramid Challenge Reborn" -n "PyramidChallengeReborn" -p "%MODPACK_VERSION%" -c ".build.json" -ct "%CURSEFORGE_TOKEN%"
+twitch_export-win.exe -d "%userprofile%\Documents\Git\Pyramid-Challenge-Reborn" -n "PyramidChallengeReborn" -p "%MODPACK_VERSION%" -c ".build.json" -ct "%CURSEFORGE_TOKEN%"
 
 ECHO Setting up metadata for uploading...
 SET CLIENT_METADATA="{'changelog': '%CLIENT_CHANGELOG%','changelogType': '%CLIENT_CHANGELOG_TYPE%','displayName': '%CLIENT_FILE_DISPLAY_NAME%','gameVersions': %GAME_VERSIONS%,'releaseType': '%CLIENT_RELEASE_TYPE%'}"
