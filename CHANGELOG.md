@@ -1,3 +1,23 @@
+Changelog 1.2.0 > 1.2.1
+
+Mod Additions:
+	- Better Builder's Wands
+	- KleeSlabs
+	- No Auto Jump
+	- TheBOMPlugin (Kind of Buggy)
+
+Gameplay Changes:
+  - Added Recipe for cobblestone from 2 cobblestone slabs.
+  - Added an easier recipe for the item to share Transmutation knowledge.
+  
+Squashed Bugs:
+  - Stuck in Creative Mode
+  - Stuck in Cheat Mode
+  - Fixed a Typo on the Starting Area's Sign
+  - Fixed Recipe Conflict with the Teckle and PrjRed Block Breakers.
+
+
+
 Changelog 1.1.0 > 1.2.0
 
 Mod Additions:
