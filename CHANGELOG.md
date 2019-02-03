@@ -1,13 +1,26 @@
 Changelog 1.2.1 > 1.2.2
 
 Mod Additions:
-   - Custom Loading Screen (actually configured)
+	- BetterFps
+	- Colored Tooltips
+	- Equipment Tooltips
+	- FastFurnace
+	- FastWorkbench
+	- Gravitation Suite
+	- Morpheus
 
-Mod Removal:
-   - TheBOMPlugin
+Updated Mods:
+	FTB Library (went from FTBLib-5.4.1.80.jar to FTBLib-5.4.1.81.jar):
+	Industrial Craft (went from Industrialcraft-2-2.8.109-ex112 to industrialcraft-2-2.8.110-ex112.jar):
+	Project EX (went from ProjectEX-1.0.0.6.jar to ProjectEX-1.0.0.9.jar):
+	RetroComputers (went from retrocomputers-3.0.1.jar to retrocomputers-3.0.2.jar):
+
+Removed:
+	- TheBOMPlugin
 
 Gameplay Changes:
   - Added the newer IC2 textures for the older machines. They look a little better.
+  - Changed around the loading screen :).
 
 Changelog 1.2.0 > 1.2.1
 
