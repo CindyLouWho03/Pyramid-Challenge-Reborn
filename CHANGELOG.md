@@ -10,10 +10,10 @@ Mod Additions:
 	- Morpheus
 
 Updated Mods:
-	FTB Library (went from FTBLib-5.4.1.80.jar to FTBLib-5.4.1.81.jar):
-	Industrial Craft (went from Industrialcraft-2-2.8.109-ex112 to industrialcraft-2-2.8.110-ex112.jar):
-	Project EX (went from ProjectEX-1.0.0.6.jar to ProjectEX-1.0.0.9.jar):
-	RetroComputers (went from retrocomputers-3.0.1.jar to retrocomputers-3.0.2.jar):
+	- FTB Library (went from FTBLib-5.4.1.80.jar to FTBLib-5.4.1.81.jar)
+	- Industrial Craft (went from Industrialcraft-2-2.8.109-ex112 to industrialcraft-2-2.8.110-ex112.jar)
+	-  Project EX (went from ProjectEX-1.0.0.6.jar to ProjectEX-1.0.0.9.jar)
+	-  RetroComputers (went from retrocomputers-3.0.1.jar to retrocomputers-3.0.2.jar)
 
 Removed:
 	- TheBOMPlugin
