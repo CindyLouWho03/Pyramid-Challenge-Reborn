@@ -12,6 +12,7 @@ Below you will find anything you need to know about the game. If you want to dow
 
 ## 📇 Modlist
 - [Release](https://minecraft.curseforge.com/projects/pyramid-challenge-reborn/relations/dependencies)
+- [Development](https://cindylouwho03.github.io/Pyramid-Challenge-Reborn/mods/mods.html)
 
 ## 📜 Changelog
 - [Release](https://minecraft.curseforge.com/projects/pyramid-challenge-reborn/files)
