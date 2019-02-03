@@ -3,5 +3,5 @@
     "minecraftVersion": "1.12.2",
     "modLoader": "forge",
     "modLoaderVersion": "14.23.5.2796",
-    "includes": ["config", "maps", "scripts", "resources", "thumbnail.png", "icon.png", "config.json"]
+    "includes": ["config", "maps", "scripts", "resources", "local", "thumbnail.png", "icon.png", "config.json"]
 }
