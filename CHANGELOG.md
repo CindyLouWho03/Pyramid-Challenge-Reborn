@@ -1,10 +1,10 @@
 Changelog 1.2.0 > 1.2.1
 
 Mod Additions:
-	- Better Builder's Wands
-	- KleeSlabs
-	- No Auto Jump
-	- TheBOMPlugin (Kind of Buggy)
+   - Better Builder's Wands
+   - KleeSlabs
+   - No Auto Jump
+   - TheBOMPlugin (Kind of Buggy)
 
 Gameplay Changes:
   - Added Recipe for cobblestone from 2 cobblestone slabs.
