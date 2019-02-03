@@ -24,7 +24,7 @@ mods.jei.JEI.removeAndHide(<projectex:personal_link>);
 
 //Knowledge Sharing
 recipes.remove(<projectex:knowledge_sharing_book>);
-recipes.addShaped(<projectex:knowledge_sharing_book>, [[<projecte:item.pe_matter>, <minecraft:diamond>, <projecte:item.pe_matter>],[<minecraft:diamond>, <minecraft:writable_book>, <minecraft:diamond>], [<projecte:item.pe_matter>, <minecraft:diamond>, <projecte:item.pe_matter>]]);
+recipes.addShaped(<projectex:knowledge_sharing_book>, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, <minecraft:book>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
 
 
 print("Initialized 'ProjectE.zs'...");

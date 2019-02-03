@@ -39,6 +39,10 @@
     {
       "item": "forestry:apatite|0",
       "emc": 128
+    },
+    {
+      "item": "projectex:knowledge_sharing_book|0",
+      "emc": 0
     }
   ]
 }

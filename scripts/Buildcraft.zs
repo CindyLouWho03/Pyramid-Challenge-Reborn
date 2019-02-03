@@ -16,4 +16,7 @@ recipes.addShaped(<buildcraftfactory:autoworkbench_item>, [[null, <ore:gearWood>
 recipes.remove(<buildcraftsilicon:plug_gate>);
 <buildcraftsilicon:plug_gate>.addTooltip("Look at the BC Guide Book for Recipes");
 
+//Builder Recipe
+recipes.addShaped(<buildcraftbuilders:builder>, [[<minecraft:dye>, <buildcraftcore:marker_volume>, <minecraft:dye>],[<minecraft:dye:11>, <minecraft:crafting_table>, <minecraft:dye:11>], [<ore:gearDiamond>, <minecraft:chest>, <ore:gearDiamond>]]);
+
 print("Initialized 'Buildcraft.zs'...");
