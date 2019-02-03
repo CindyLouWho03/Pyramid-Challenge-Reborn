@@ -2,6 +2,6 @@
     "packAuthor": "CindyLouWho",
     "minecraftVersion": "1.12.2",
     "modLoader": "forge",
-    "modLoaderVersion": "14.23.5.2796",
+    "modLoaderVersion": "14.23.5.2810",
     "includes": ["config", "maps", "scripts", "ic2_profiles", "resources", "local", "thumbnail.png", "icon.png", "config.json"]
 }
