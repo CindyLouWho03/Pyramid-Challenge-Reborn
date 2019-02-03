@@ -1,6 +1,7 @@
 {
     "renders": [
-        "sample/dirt_background",
+        "sample/panorama",
+        "sample/logo",
         "sample/text_percentage_scrolling",
         {
             "image": {
@@ -12,7 +13,7 @@
         {
             "image": {
                 "parent": "sample/bottom_bar",
-                "colour": "0xFF_11_44_CC"
+                "colour": "0xFF_00_FF_FF"
             }
         }
     ],

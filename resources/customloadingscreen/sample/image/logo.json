@@ -1,0 +1,10 @@
+{
+    "parent": "sample/item",
+    "image": "mainmenu:logo.png",
+    "position": {
+      "x": "0",
+      "y": "-60",
+      "width": "300",
+      "height": "61"
+    }
+  }
