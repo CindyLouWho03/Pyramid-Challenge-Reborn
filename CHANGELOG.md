@@ -1,7 +1,19 @@
+Changelog 1.2.1 > 1.2.2
+
+Mod Additions:
+   - Custom Loading Screen (actually configured)
+
+Mod Removal:
+   - TheBOMPlugin
+
+Gameplay Changes:
+  - Added the newer IC2 textures for the older machines. They look a little better.
+
 Changelog 1.2.0 > 1.2.1
 
 Mod Additions:
    - Better Builder's Wands
+   - Custom Loading Screen (Totally by mistake)
    - KleeSlabs
    - No Auto Jump
    - TheBOMPlugin (Kind of Buggy)
