@@ -152,4 +152,9 @@ mods.jei.JEI.removeAndHide(<projectred-expansion:machine2>);
 //Bean Quarry remove
 mods.jei.JEI.removeAndHide(<teckle:beamquarry>);
 
+//Retreiver
+<teckle:retriever>.displayName = "Retriever";
+<teckle:retriever>.addTooltip("Not Functional, Don't PLACE");
+recipes.addShaped(<teckle:retriever>, [[<ore:ingotBrass>, <minecraft:leather>, <ore:ingotBrass>],[<minecraft:ender_pearl>, <teckle:filter>, <minecraft:ender_pearl>], [<minecraft:iron_ingot>, <ore:ingotBlueAlloy>, <minecraft:iron_ingot>]]);
+
 print("Initialized 'ProjectRed.zs'...");

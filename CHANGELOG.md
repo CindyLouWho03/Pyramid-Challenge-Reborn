@@ -1,3 +1,18 @@
+Changelog 1.2.2 > 1.3.0
+
+Updated Mods:
+	- Better Builder's Wands (went from Better Builder's Wands 0.12.1 [MC1.12; rev 254] to Better Builder's Wands 0.13.0 [MC1.12; rev 267])
+	- FTB Library (went from FTBLib-5.4.1.81.jar to FTBLib-5.4.1.83.jar)
+	- FTB Quests (went from FTBQuests-1.5.0.124.jar to FTBQuests-1.5.0.129.jar)
+	- Industrial Craft (went from industrialcraft-2-2.8.110-ex112.jar to industrialcraft-2-2.8.111-ex112.jar)
+	- Project EX (went from ProjectEX-1.0.0.9.jar to ProjectEX-1.0.0.13.jar)
+	- Super Sound Muffler (went from supersoundmuffler-1.12.1-1.0.2.9.jar to supersoundmuffler-1.12.2-1.0.2.10.jar)
+
+Gameplay Changes:
+  - Added the StopGap Gamemode.
+
+
+
 Changelog 1.2.1 > 1.2.2
 
 Mod Additions:

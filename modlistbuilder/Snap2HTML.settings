@@ -6,10 +6,10 @@
     <WindowLeft>660</WindowLeft>
     <WindowTop>312</WindowTop>
   </DAN-PC>
-  <txtLinkRoot>C:\Users\Parker\Documents\Git\Pyramid-Challenge-Reborn\mods\</txtLinkRoot>
+  <txtLinkRoot>C:\Users\Parker\Documents\Git\Pyramid-Dev\mods\</txtLinkRoot>
   <chkLinkFiles>False</chkLinkFiles>
   <chkOpenOutput>False</chkOpenOutput>
-  <txtRoot>C:\Users\Parker\Documents\Git\Pyramid-Challenge-Reborn\mods</txtRoot>
+  <txtRoot>C:\Users\Parker\Documents\Git\Pyramid-Dev\mods</txtRoot>
   <DESKTOP-AK89O65>
     <WindowLeft>780</WindowLeft>
     <WindowTop>319</WindowTop>
