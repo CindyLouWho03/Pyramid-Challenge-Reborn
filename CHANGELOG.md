@@ -1,3 +1,11 @@
+Changelog 1.3.0 > 1.3.1
+
+Gameplay Changes:
+  - Set the Unity Texture pack to be stock. This can easily be changed VIA disabling the Resource pack.
+
+
+
+
 Changelog 1.2.2 > 1.3.0
 
 Updated Mods:
