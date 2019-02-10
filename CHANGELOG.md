@@ -1,3 +1,45 @@
+Changelog 1.3.1 > 1.4.0
+
+Added Mods:
+	- Default World Generator (port)
+  - HCTM (in favor of RetroComputers)
+
+Updated Mods:
+	- FTB Library (went from FTBLib-5.4.1.83.jar to FTBLib-5.4.1.84.jar)
+	- FTB Quests (went from FTBQuests-1.5.0.129.jar to FTBQuests-1.5.0.130.jar)
+	- Inventory Tweaks (went from Inventory Tweaks 1.64+dev.145 to Inventory Tweaks 1.64+dev.146)
+	- Iron Chests (went from ironchest-1.12.2-7.0.58.841.jar to ironchest-1.12.2-7.0.59.842.jar)
+
+Removed Mods:
+	- Lockdown (This doesnt work well will Deafult World Generator)
+	- RetroBees (Until the server side issue is fixed)
+
+Gameplay Changes:
+  - Added a stock world geneartor for people who like overworlds
+  - Added some Tips when loading world
+  - Removed the bedrock texture from the Unity Pack
+  - Renamed Create from Template to Create New Beast
+  - Renamed Create New World to Create New Overworld
+  - Disabled the JEI.zs file so it doesnt conflict with other game modes
+  - Renamed Tips when loading a world to Did you Know
+  - Changed out the Project Red Block Placer / Deployer to the Tubes one
+  - Changed out the BC Pump for Small But Mightly for the Powerline Pump
+
+Techional Changes:
+  - Renamed the Tooltips.zs file to JEI.zs
+
+Squashed Bugs:
+  - Fixed Bad Mobs Config not working to stop witch spawns
+  - Fixed the IC2 Energy Crystal Auto Detecting
+  - Fixed JEI being stuck in Cheat mode and Trans Being Searched
+  - Gave the Knowledge Tome 1 EMC so it actually functions
+  - Creating a new Beast now doesn't yell about OGDragon
+  - Fixed waypoints being stuck on world load
+
+
+
+
+
 Changelog 1.3.0 > 1.3.1
 
 Gameplay Changes:

@@ -18,6 +18,7 @@ mods.jei.JEI.removeAndHide(<quacklib:alloy_furnace>);
 <ore:dustElectrotine>.add(<quacklib:component:23>);
 <projectred-exploration:stone:11>.displayName = "Block of Nikolite";
 <projectred-exploration:stone_wall:11>.displayName = "Nikolite Wall";
+mods.jei.JEI.hide(<quacklib:component:23>);
 
 //Wafer Unify
 mods.jei.JEI.removeAndHide(<quacklib:component:17>);
@@ -135,6 +136,25 @@ mods.jei.JEI.hide(<quacklib:component:16>);
 //Misc Unify
 mods.jei.JEI.hide(<quacklib:component:26>);
 mods.jei.JEI.hide(<quacklib:component:27>);
+mods.jei.JEI.removeAndHide(<quacklib:component>);
+mods.jei.JEI.removeAndHide(<quacklib:component:1>);
+mods.jei.JEI.removeAndHide(<quacklib:component:2>);
+mods.jei.JEI.removeAndHide(<quacklib:component:3>);
+mods.jei.JEI.removeAndHide(<quacklib:component:4>);
+mods.jei.JEI.removeAndHide(<quacklib:component:5>);
+mods.jei.JEI.removeAndHide(<quacklib:component:6>);
+mods.jei.JEI.removeAndHide(<quacklib:component:7>);
+mods.jei.JEI.removeAndHide(<quacklib:component:8>);
+mods.jei.JEI.removeAndHide(<quacklib:component:9>);
+mods.jei.JEI.removeAndHide(<quacklib:component:10>);
+mods.jei.JEI.removeAndHide(<quacklib:component:11>);
+mods.jei.JEI.removeAndHide(<quacklib:component:12>);
+mods.jei.JEI.removeAndHide(<quacklib:component:13>);
+mods.jei.JEI.removeAndHide(<quacklib:component:14>);
+mods.jei.JEI.removeAndHide(<quacklib:component:15>);
+mods.jei.JEI.hide(<quacklib:component:24>);
+mods.jei.JEI.hide(<quacklib:nikolite_ore>);
+mods.jei.JEI.hide(<quacklib:multiblock_test>);
 
 //Basalt, Marble EMC
 recipes.addShaped(<projectred-exploration:stone:3> * 8, [[<ore:stone>, <ore:stone>, <ore:stone>],[<ore:stone>, <ore:dyeBlack>, <ore:stone>], [<ore:stone>, <ore:stone>, <ore:stone>]]);
@@ -142,7 +162,9 @@ recipes.addShaped(<projectred-exploration:stone> * 8, [[<ore:stone>, <ore:stone>
 
 //Deployer Fix
 mods.jei.JEI.removeAndHide(<teckle:placer>);
-<projectred-expansion:machine2:2>.displayName = "Deployer";
+mods.jei.JEI.removeAndHide(<projectred-expansion:machine2:2>);
+recipes.addShaped(<tubes:deployer>, [[<minecraft:cobblestone>, <minecraft:chest>, <minecraft:cobblestone>],[<minecraft:cobblestone>, <minecraft:piston>, <minecraft:cobblestone>], [<minecraft:cobblestone>, <minecraft:redstone>, <minecraft:cobblestone>]]);
+
 
 //Breaker Fix
 mods.jei.JEI.removeAndHide(<projectred-expansion:machine2:12>);
@@ -156,5 +178,106 @@ mods.jei.JEI.removeAndHide(<teckle:beamquarry>);
 <teckle:retriever>.displayName = "Retriever";
 <teckle:retriever>.addTooltip("Not Functional, Don't PLACE");
 recipes.addShaped(<teckle:retriever>, [[<ore:ingotBrass>, <minecraft:leather>, <ore:ingotBrass>],[<minecraft:ender_pearl>, <teckle:filter>, <minecraft:ender_pearl>], [<minecraft:iron_ingot>, <ore:ingotBlueAlloy>, <minecraft:iron_ingot>]]);
+
+//RsWires Disable
+mods.jei.JEI.removeAndHide(<rswires:lamp_off>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:1>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:2>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:3>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:4>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:5>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:6>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:7>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:8>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:9>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:10>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:11>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:12>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:13>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:14>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_off:15>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:1>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:2>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:3>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:4>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:5>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:6>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:7>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:8>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:9>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:10>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:11>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:12>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:13>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:14>);
+mods.jei.JEI.removeAndHide(<rswires:lamp_inv_off:15>);
+mods.jei.JEI.removeAndHide(<rswires:red_alloy_wire>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:1>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:2>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:3>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:4>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:5>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:6>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:7>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:8>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:9>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:10>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:11>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:12>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:13>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:14>);
+mods.jei.JEI.removeAndHide(<rswires:insulated_wire:15>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:1>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:2>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:3>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:4>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:5>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:6>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:7>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:8>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:9>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:10>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:11>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:12>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:13>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:14>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:15>);
+mods.jei.JEI.removeAndHide(<rswires:bundled_cable:16>);
+
+//Tubes hide
+mods.jei.JEI.hide(<tubes:tube>);
+mods.jei.JEI.hide(<tubes:destroyer>);
+
+//Powerline hide
+mods.jei.JEI.hide(<powerline:player_link>);
+mods.jei.JEI.hide(<powerline:transformer>);
+mods.jei.JEI.hide(<powerline:fabricator>);
+mods.jei.JEI.hide(<powerline:solar_panel>);
+mods.jei.JEI.hide(<powerline:lvwire>);
+mods.jei.JEI.hide(<powerline:primitive_steam_gen>);
+mods.jei.JEI.hide(<powerline:hvwire>);
+mods.jei.JEI.hide(<powerline:blue_alloy_furnace>);
+mods.jei.JEI.hide(<powerline:battery_box>);
+mods.jei.JEI.hide(<powerline:steel_tube_large>);
+mods.jei.JEI.hide(<powerline:multimeter>);
+mods.jei.JEI.hide(<powerline:battery:*>);
+mods.jei.JEI.hide(<powerline:steel_tube_small>);
+mods.jei.JEI.hide(<powerline:grappling_hook>);
+
+//Grate Recipe
+recipes.addShaped(<powerline:grate>, [[<minecraft:iron_bars>, <minecraft:iron_bars>, <minecraft:iron_bars>],[<minecraft:iron_bars>, null, <minecraft:iron_bars>], [<minecraft:iron_bars>, <powerline:fluid_pipe>, <minecraft:iron_bars>]]);
+<powerline:grate>.addTooltip("This item isn't useful in any this. This is just here for the map");
+
+//Fluid Pipe Recipe
+recipes.addShaped(<powerline:fluid_pipe> * 16, [[<ore:ingotBrass>, null, <ore:ingotBrass>],[<ore:ingotBrass>, <minecraft:glass>, <ore:ingotBrass>], [<ore:ingotBrass>, null, <ore:ingotBrass>]]);
+<powerline:fluid_pipe>.addTooltip("This item isn't useful in any this. This is just here for the map");
+
+//Pump
+recipes.addShaped(<powerline:pump>, [[<ore:ingotIron>, <minecraft:iron_ingot>, <ore:ingotIron>],[<powerline:fluid_pipe>, <projectred-core:resource_item:410>, <powerline:fluid_pipe>], [<ore:ingotIron>, <ore:ingotBlueAlloy>, <ore:ingotIron>]]);
+<powerline:pump>.addTooltip("This item isn't useful in any this. This is just here for the map");
+
 
 print("Initialized 'ProjectRed.zs'...");
