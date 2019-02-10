@@ -5,9 +5,10 @@ Added Mods:
 	- ShadowMC
 
 Bugs Squashed:
-    - Fixed the Deployer Recipe Glitch
-    - Removed the Dark Matter Picks EMC
-    - Removed the Philosophers Stone's EMC
+    	- Fixed the Deployer Recipe Glitch
+    	- Removed the Dark Matter Picks EMC
+    	- Removed the Philosophers Stone's EMC
+
 
 
 
@@ -16,7 +17,7 @@ Changelog 1.3.1 > 1.4.0
 
 Added Mods:
 	- Default World Generator (port)
-  - HCTM (in favor of RetroComputers)
+  	- HCTM (in favor of RetroComputers)
 
 Updated Mods:
 	- FTB Library (went from FTBLib-5.4.1.83.jar to FTBLib-5.4.1.84.jar)
