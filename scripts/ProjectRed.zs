@@ -5,8 +5,6 @@ print("Initializing 'ProjectRed.zs'...");
 
 //Dedup Removal Machine
 mods.jei.JEI.removeAndHide(<projectred-expansion:machine2>);
-recipes.remove(<projectred-expansion:machine2:2>);
-recipes.addShaped(<projectred-expansion:machine2:2>, [[<ore:cobblestone>, <minecraft:chest>, <ore:cobblestone>],[<ore:cobblestone>, <minecraft:piston>, <ore:cobblestone>], [<ore:cobblestone>, <ore:dustRedstone>, <ore:cobblestone>]]);
 
 //Alloy Furnace Unify
 mods.jei.JEI.removeAndHide(<quacklib:alloy_furnace>);

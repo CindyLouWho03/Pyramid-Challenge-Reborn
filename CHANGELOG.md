@@ -1,3 +1,17 @@
+Changelog 1.4.0 > 1.4.1
+
+Added Mods:
+	- Clipboard
+	- ShadowMC
+
+Bugs Squashed:
+    - Fixed the Deployer Recipe Glitch
+    - Removed the Dark Matter Picks EMC
+    - Removed the Philosophers Stone's EMC
+
+
+
+
 Changelog 1.3.1 > 1.4.0
 
 Added Mods:

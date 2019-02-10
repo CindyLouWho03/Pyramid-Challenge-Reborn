@@ -43,6 +43,14 @@
     {
       "item": "projectex:knowledge_sharing_book|0",
       "emc": 1
+    },
+    {
+      "item": "projecte:item.pe_dm_pick|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 0
     }
   ]
 }
