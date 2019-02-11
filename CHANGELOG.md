@@ -1,3 +1,12 @@
+Changelog 1.4.1 > 1.4.2
+
+Updated Mods:
+    - Custom Loading Screen (went from CustomLoadingScreen-1.12.2-1.4.0.1.jar to CustomLoadingScreen-1.12.2-1.4.0.2.jar)
+
+Gameplay Changes:
+    - Put RAM Usage and Time of Loading the modpack in the loading screen.
+
+
 Changelog 1.4.0 > 1.4.1
 
 Added Mods:

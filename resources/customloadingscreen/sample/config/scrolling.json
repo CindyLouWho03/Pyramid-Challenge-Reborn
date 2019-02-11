@@ -15,10 +15,31 @@
                 "parent": "sample/bottom_bar",
                 "colour": "0xFF_00_FF_FF"
             }
-        }
-    ],
-    "functions": [
-        
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "image": "textures/font/ascii.png",
+                "position_type": "TOP_LEFT",
+                "offset_pos": "TOP_LEFT",
+                "text": "memory_used() + ' MiB / ' + memory_total() + ' MiB'",
+                "position": {
+                    "x": 10, "y": 10
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "image": "textures/font/ascii.png",
+                "position_type": "TOP_LEFT",
+                "offset_pos": "TOP_LEFT",
+                "text": "floor(time * 10) / 10.0 + 's'",
+                "position": {
+                    "x": 10, "y": 24
+                }
+            }
+        }        
     ],
     "variables": {
         "max_scroll_count": "screen_height / (2 * 16)",
