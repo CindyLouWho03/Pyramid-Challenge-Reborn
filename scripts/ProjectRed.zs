@@ -277,5 +277,16 @@ recipes.addShaped(<powerline:fluid_pipe> * 16, [[<ore:ingotBrass>, null, <ore:in
 recipes.addShaped(<powerline:pump>, [[<ore:ingotIron>, <minecraft:iron_ingot>, <ore:ingotIron>],[<powerline:fluid_pipe>, <projectred-core:resource_item:410>, <powerline:fluid_pipe>], [<ore:ingotIron>, <ore:ingotBlueAlloy>, <ore:ingotIron>]]);
 <powerline:pump>.addTooltip("This item isn't useful in any this. This is just here for the map");
 
+//Brass fix
+mods.teckle.alloy_furnace.removeRecipe(<teckle:ingot>);
+mods.teckle.alloy_furnace.addRecipe(<teckle:ingot>, [<ore:ingotTin>, <ore:ingotCopper> * 3]);
+
+//Red Alloy fix
+mods.teckle.alloy_furnace.removeRecipe(<teckle:ingot:1>);
+mods.teckle.alloy_furnace.addRecipe(<teckle:ingot:1>, [<ore:ingotCopper>, <minecraft:redstone> * 4]);
+
+//Blue Alloy Fix
+mods.teckle.alloy_furnace.removeRecipe(<teckle:ingot:2>);
+mods.teckle.alloy_furnace.addRecipe(<teckle:ingot:2>, [<ore:ingotSilver>, <teckle:nikolite>]);
 
 print("Initialized 'ProjectRed.zs'...");

@@ -1,3 +1,26 @@
+Changelog 1.4.2 > 1.4.3
+
+Added Mods:
+	- Item Got
+	- Login Shield
+	- OpenEye
+	- Pack Crash Info
+	- ReAuth
+
+Updated Mods :
+	Corail Tombstone (went from Corail Tombstone 3.3.0 for 1.12.2 to Corail Tombstone 3.3.1 for 1.12.2)
+	Mouse Tweaks (went from [1.12.2] Mouse Tweaks 2.9 to [1.12.2] Mouse Tweaks 2.10)
+	Reborn Core (went from RebornCore-1.12.2-3.13.3.416-universal.jar to RebornCore-1.12.2-3.13.4.419-universal.jar)
+
+Bugs Squashed:
+  - Fixed the Teckle Alloy Furnace not accepting any ProjectRed ingots
+  - Moved the Quartz quest reward to another quest so it isn't a loop.
+
+Gameplay Changes:
+  - Gave the ProjectRed ingots their Unity Textures
+
+
+
 Changelog 1.4.1 > 1.4.2
 
 Updated Mods:
