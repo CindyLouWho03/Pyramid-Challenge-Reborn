@@ -1,3 +1,19 @@
+Changelog 1.4.3 > 1.4.4
+
+Added Mods:
+	- Clay Bucket
+
+Removed Mods:
+	- Item Got
+
+Bugs Squashed:
+  - Fixed the normal save not having Grates on the side
+  - Fixed StopGap not having Firetick off
+  - Fixed the JEI Search
+  - Fixed Render Distance Being Stuck at 2
+  - Fixed that unity textures didn't load
+
+
 Changelog 1.4.2 > 1.4.3
 
 Added Mods:
