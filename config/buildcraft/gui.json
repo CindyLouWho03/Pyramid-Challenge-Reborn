@@ -7,10 +7,15 @@
       "boolean": false
     },
     "ledger.help.is_open": {
-      "boolean": false
+      "boolean": true
     },
     "ledger.owner.is_open": {
       "boolean": false
+    }
+  },
+  "buildcraftlib:engine": {
+    "ledger.power.is_open": {
+      "boolean": true
     }
   }
 }
