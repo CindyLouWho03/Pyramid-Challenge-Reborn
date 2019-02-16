@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -112,14 +112,16 @@ key_key.jei.showUses:22
 key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
-key_key.jei.bookmark:30
+key_key.jei.bookmark:0
 key_key.jei.toggleBookmarkOverlay:0
-key_bbw.key.mode:50
+key_bbw.key.mode:208
 key_bbw.key.fluidmode:33:ALT
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_craftpresence.keybind.config.desc:157
+key_key.master:20
 key_invtweaks.key.sort:19
+key_keywizard.keybind.openKeyboardWizard:0
 key_Quick Commands:83
 key_nei.options.keys.gui.enchant:45
 key_nei.options.keys.gui.potion:25
@@ -142,7 +144,7 @@ key_gui.xaero_instant_waypoint:78
 key_gui.xaero_toggle_slime:0
 key_gui.xaero_toggle_grid:0
 key_gui.xaero_toggle_waypoints:0
-key_gui.xaero_toggle_map:35
+key_gui.xaero_toggle_map:0
 key_gui.xaero_enlarge_map:44
 key_gui.xaero_waypoints_key:22
 key_gui.xaero_zoom_in:23
@@ -150,7 +152,7 @@ key_gui.xaero_zoom_out:24
 key_gui.xaero_new_waypoint:48
 key_key.control:29
 key_Profile GUI:210
-soundCategory_master:1.0
+soundCategory_master:0.05629139
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

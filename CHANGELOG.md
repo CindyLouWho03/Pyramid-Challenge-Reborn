@@ -1,3 +1,35 @@
+Changelog 1.4.5 > 1.5.0
+
+Added Mods:
+	- Bad Wither No Cookie - Reloaded
+	- Ding
+	- Equivalent Bees
+	- Fullscreen Windowed (Borderless) for Minecraft
+	- Inventory Spam
+	- It's the little things
+	- Keyboard Wizard
+	- LunatriusCore
+	- RealBench
+	- Stackie
+
+Removed:
+	- Clumps (In favor of Stackie)
+	- No Recipe Book (In favor of RealBench)
+
+Bugs Squashed:
+  - Minor Bugs in the Maps
+
+Gameplay Changes:
+  - Added Server Files
+  - Added a special worldtype for the new server files which is the Direwolf20 & NearbyGamer Bedrock VS Map.
+
+
+Changelog 1.4.4 > 1.4.5
+
+Bugs Squashed:
+  - Quality of Life Bugs Fixed
+
+
 Changelog 1.4.3 > 1.4.4
 
 Added Mods:
