@@ -1,3 +1,10 @@
+Changelog 1.5.0 > 1.5.1
+
+Gameplay Changes:
+  - Removed the Aqua Blue GUI Texturess
+
+
+
 Changelog 1.4.5 > 1.5.0
 
 Added Mods:
