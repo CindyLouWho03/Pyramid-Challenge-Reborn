@@ -1,7 +1,6 @@
 {
     "renders": [
-        "sample/panorama",
-        "sample/logo",
+        "sample/background",
         "sample/text_percentage_scrolling",
         {
             "image": {
@@ -39,7 +38,8 @@
                     "x": 10, "y": 24
                 }
             }
-        }        
+        },
+        "sample/doodle"
     ],
     "variables": {
         "max_scroll_count": "screen_height / (2 * 16)",

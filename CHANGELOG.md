@@ -1,3 +1,55 @@
+Changelog 1.5.1 > 1.6.0
+
+Added:
+	- Charset Lib
+	- Charset Tweaks
+	- Client Tweaks
+	- Expanded Equivalence
+	- Hammer (Lib) Core
+	- iChunUtil
+	- Mapwriter 2
+
+Updated:
+	- B.A.S.E (went from base-1.12.2-3.11.0.jar to base-1.12.2-3.12.0.jar)
+	- Better Builder's Wands (went from Better Builder's Wands 0.13.0 [MC1.12; rev 267] to Better Builder's Wands 0.13.2 [MC1.12; rev 271])
+	- Buildcraft (went from buildcraft-all-7.99.21.jar to buildcraft-all-7.99.23.jar)
+	- Corail Tombstone (went from Corail Tombstone 3.3.1 for 1.12.2 to Corail Tombstone 3.3.4 for 1.12.2)
+	- CraftPresence (went from CraftPresence v1.4.9.9 (1.12.2) to CraftPresence v1.5.2 (1.12.2))
+	- CraftTweaker (went from CraftTweaker2-1.12-4.1.14 to CraftTweaker2-1.12-4.1.17)
+	- CreativeCore (went from CreativeCore_v1.9.39_mc1.12.2.jar to CreativeCore_v1.9.41_mc1.12.2.jar)
+  - CustomLoadingScreen (went from CustomLoadingScreen-1.12.2-1.4.0.2.jar to CustomLoadingScreen-1.12.2-1.4.0.3.jar)
+	- FTB Library (went from FTBLib-5.4.1.84.jar to FTBLib-5.4.1.93.jar)
+	- FTB Quests (went from FTBQuests-1.5.0.130.jar to FTBQuests-1.5.1.140.jar)
+	- FastFurnace (went from FastFurnace-1.12.2-1.2.1.jar to FastFurnace-1.12.2-1.2.2.jar)
+	- FastWorkbench (went from FastWorkbench-1.12.2-1.6.0.jar to FastWorkbench-1.12.2-1.6.1.jar)
+	- Forestry (went from forestry_1.12.2-5.8.2.382.jar to forestry_1.12.2-5.8.2.387.jar)
+	- Hardcore Map Reset (went from HardCoreMapReset-4.2.1.36.jar to HardCoreMapReset-4.2.3.39.jar)
+	- In-Game Time(r) (went from In-Game Timer 1.1.2 to In-Game Timer 1.3.1)
+	- Just Enough Items (JEI) (went from jei_1.12.2-4.14.4.264.jar to jei_1.12.2-4.15.0.272.jar)
+	- Keyboard Wizard (went from keywizard-1.12.2-1.5.4.jar to keywizard-1.12.2-1.5.5.jar)
+  - Logistics Pipes (went from logisticspipes-0.10.1.111.jar to logisticspipes-0.10.1.112.jar)
+	- MPUtils (went from MPUtils v1.5.4 (MC1.12) to MPUtils v1.5.7 (MC1.12))
+	- MPUtils Basic Tools (went from MPBasic Tools 1.4.5 (1.12.2) to MPBasic Tools 1.4.11 (1.12.2))
+	- Main Menu Scale (went from MainMenuScale-1.2.jar to MainMenuScale-1.3.2.jar)
+	- No Auto Jump (went from NoAutoJump-1.12-1.0.jar to NoAutoJump-1.12.2-1.1.jar):
+	- Patchouli (went from Patchouli-1.0-16.jar to Patchouli-1.0-18.jar):
+	- Portal Gun (went from PortalGun-1.12.2-7.0.2.jar to PortalGun-1.12.2-7.1.0.jar)
+	- Reborn Core (went from RebornCore-1.12.2-3.13.4.419-universal.jar to RebornCore-1.12.2-3.13.9.433-universal.jar)
+	- TipTheScales (went from TipTheScales-1.12.2-1.0.3 to TipTheScales-1.12.2-1.0.4)
+	- Tips (went from Tips-1.12.2-1.0.6.jar to Tips-1.12.2-1.0.7.jar)
+
+Removed Mods:
+	- PigUtils
+	- Xaero's Minimap
+
+Bugs Squashed:
+  - Made the Normal Map load the Beast Properally
+
+Changes:
+  - Changed the packs loading screen a bit.
+
+
+
 Changelog 1.5.0 > 1.5.1
 
 Gameplay Changes:

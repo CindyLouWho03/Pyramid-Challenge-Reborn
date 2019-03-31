@@ -1,4 +1,4 @@
-//Coded by CindyLouWho03
+//Coded by CrankySupertoon
 {
 
     "buttons": {
@@ -150,9 +150,9 @@
             "alignment": "bottom_right"
         },
         "mojang": {
-            "text": "Copyright Mojang AB & Cindy Lou Who",
-            "hoverText": "�nCopyright Mojang AB  & Misdreavus",
-            "posX": -115,
+            "text": "Copyright Mojang AB & CrankySupertoon",
+            "hoverText": "Copyright Mojang AB  & CrankySupertoon",
+            "posX": -120,
             "posY": -7,
             "fontSize": 0.6,
             "color": -1,
