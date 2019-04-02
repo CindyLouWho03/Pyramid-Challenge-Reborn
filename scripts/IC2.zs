@@ -12,4 +12,10 @@ recipes.addShaped(<ic2:te:2>, [[<minecraft:gunpowder>, <ic2:ingot:8>, <minecraft
 //Add Sugar Cane UU Matter Recipe
 recipes.addShaped(<minecraft:reeds> * 48,[[<ic2:misc_resource:3>, null , <ic2:misc_resource:3>],[<ic2:misc_resource:3>,null , <ic2:misc_resource:3>], [<ic2:misc_resource:3>, null, <ic2:misc_resource:3>]]);
 
+//Cactus JEI Show
+recipes.addShaped(<minecraft:cactus> * 48,[[null, <ic2:misc_resource:3> ,null ],[<ic2:misc_resource:3>,<ic2:misc_resource:3>,<ic2:misc_resource:3>], [<ic2:misc_resource:3>, null, <ic2:misc_resource:3>]]);
+
+//Apatite JEI Show
+recipes.addShaped(<forestry:apatite> * 12,[[<ic2:misc_resource:3>, <ic2:misc_resource:3> , <ic2:misc_resource:3>],[null,<ic2:misc_resource:3>, null], [null, <ic2:misc_resource:3>, null]]);
+
 print("Initialized 'IC2.zs'...");
