@@ -106,20 +106,20 @@ Gameplay Changes:
 Changelog 1.4.5 > 1.5.0
 
 Added Mods:
-	- Bad Wither No Cookie - Reloaded
-	- Ding
-	- Equivalent Bees
-	- Fullscreen Windowed (Borderless) for Minecraft
-	- Inventory Spam
-	- It's the little things
-	- Keyboard Wizard
-	- LunatriusCore
-	- RealBench
-	- Stackie
+  - Bad Wither No Cookie - Reloaded
+  - Ding
+  - Equivalent Bees
+  - Fullscreen Windowed (Borderless) for Minecraft
+  - Inventory Spam
+  - It's the little things
+  - Keyboard Wizard
+  - LunatriusCore	
+  - RealBench
+  - Stackie
 
 Removed:
-	- Clumps (In favor of Stackie)
-	- No Recipe Book (In favor of RealBench)
+  - Clumps (In favor of Stackie)
+  - No Recipe Book (In favor of RealBench)
 
 Bugs Squashed:
   - Minor Bugs in the Maps
@@ -139,10 +139,10 @@ Bugs Squashed:
 Changelog 1.4.3 > 1.4.4
 
 Added Mods:
-- Clay Bucket
+  - Clay Bucket
 
 Removed Mods:
-- Item Got
+  - Item Got
 
 Bugs Squashed:
   - Fixed the normal save not having Grates on the side
@@ -156,16 +156,16 @@ Bugs Squashed:
 Changelog 1.4.2 > 1.4.3
 
 Added Mods:
-	- Item Got
-	- Login Shield
-	- OpenEye
-	- Pack Crash Info
-	- ReAuth
+  - Item Got
+  - Login Shield
+  - OpenEye
+  - Pack Crash Info
+  - ReAuth
 
 Updated Mods :
-	Corail Tombstone (went from Corail Tombstone 3.3.0 for 1.12.2 to Corail Tombstone 3.3.1 for 1.12.2)
-	Mouse Tweaks (went from [1.12.2] Mouse Tweaks 2.9 to [1.12.2] Mouse Tweaks 2.10)
-	Reborn Core (went from RebornCore-1.12.2-3.13.3.416-universal.jar to RebornCore-1.12.2-3.13.4.419-universal.jar)
+  - Corail Tombstone (went from Corail Tombstone 3.3.0 for 1.12.2 to Corail Tombstone 3.3.1 for 1.12.2)
+  - Mouse Tweaks (went from [1.12.2] Mouse Tweaks 2.9 to [1.12.2] Mouse Tweaks 2.10)
+  - Reborn Core (went from RebornCore-1.12.2-3.13.3.416-universal.jar to RebornCore-1.12.2-3.13.4.419-universal.jar)
 
 Bugs Squashed:
   - Fixed the Teckle Alloy Furnace not accepting any ProjectRed ingots
@@ -188,13 +188,13 @@ Gameplay Changes:
 Changelog 1.4.0 > 1.4.1
 
 Added Mods:
-  - Clipboard
-  - ShadowMC
+    - Clipboard
+    - ShadowMC
 
 Bugs Squashed:
-  - Fixed the Deployer Recipe Glitch
-  - Removed the Dark Matter Picks EMC
-  - Removed the Philosophers Stone's EMC
+    - Fixed the Deployer Recipe Glitch
+    - Removed the Dark Matter Picks EMC
+    - Removed the Philosophers Stone's EMC
 
 
 
