@@ -1,3 +1,53 @@
+Changelog 1.7.0 > 1.7.1
+
+Bugs Squashed:
+	- Fixed a bug with the resources not being applied
+
+
+
+Changelog 1.6.0 > 1.7.0
+
+Added:
+	- Crafting Station
+	- Custom LAN Ports
+	- PortalBlocks
+	- Portal Gun Fixer
+	- ProjectE Integration
+	- Random Patches
+	- Simple Trophies
+	- VoxelMap
+	- Tomb Many Graves 2
+ 
+
+Updated:
+
+	- Will do after modpack changelog maker comes back online
+
+Removed:
+
+	- QuestUtils
+	- MapWriter 2
+	- Corail Tombstone
+	- Expanded Equilvance
+	- Lag Goggles
+	- Project EX
+	- It’s the little things
+ 
+
+Bugs Squashes:
+
+	- don’t need to run /gamerule questfile norm on Normal preset
+	- Brown Lamp is better on Normal & Insanity
+ 
+
+Ingame Changes:
+
+	- New Trophys To Replace the ugly ones
+	- Changed how items are given out on StopGap. Now they are in a chest.
+
+
+
+
 Changelog 1.5.1 > 1.6.0
 
 Added:
