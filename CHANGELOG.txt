@@ -20,11 +20,9 @@ Added:
  
 
 Updated:
-
 	- Will do after modpack changelog maker comes back online
 
 Removed:
-
 	- QuestUtils
 	- MapWriter 2
 	- Corail Tombstone
@@ -35,13 +33,11 @@ Removed:
  
 
 Bugs Squashes:
-
 	- don’t need to run /gamerule questfile norm on Normal preset
 	- Brown Lamp is better on Normal & Insanity
  
 
 Ingame Changes:
-
 	- New Trophys To Replace the ugly ones
 	- Changed how items are given out on StopGap. Now they are in a chest.
 
@@ -142,10 +138,10 @@ Bugs Squashed:
 Changelog 1.4.3 > 1.4.4
 
 Added Mods:
-	- Clay Bucket
+- Clay Bucket
 
 Removed Mods:
-	- Item Got
+- Item Got
 
 Bugs Squashed:
   - Fixed the normal save not having Grates on the side
