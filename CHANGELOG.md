@@ -162,7 +162,7 @@ Added Mods:
   - Pack Crash Info
   - ReAuth
 
-Updated Mods :
+Updated Mods:
   - Corail Tombstone (went from Corail Tombstone 3.3.0 for 1.12.2 to Corail Tombstone 3.3.1 for 1.12.2)
   - Mouse Tweaks (went from [1.12.2] Mouse Tweaks 2.9 to [1.12.2] Mouse Tweaks 2.10)
   - Reborn Core (went from RebornCore-1.12.2-3.13.3.416-universal.jar to RebornCore-1.12.2-3.13.4.419-universal.jar)
@@ -179,22 +179,22 @@ Gameplay Changes:
 Changelog 1.4.1 > 1.4.2
 
 Updated Mods:
-    - Custom Loading Screen (went from CustomLoadingScreen-1.12.2-1.4.0.1.jar to CustomLoadingScreen-1.12.2-1.4.0.2.jar)
+  - Custom Loading Screen (went from CustomLoadingScreen-1.12.2-1.4.0.1.jar to CustomLoadingScreen-1.12.2-1.4.0.2.jar)
 
 Gameplay Changes:
-    - Put RAM Usage and Time of Loading the modpack in the loading screen.
+  - Put RAM Usage and Time of Loading the modpack in the loading screen.
 
 
 Changelog 1.4.0 > 1.4.1
 
 Added Mods:
-    - Clipboard
-    - ShadowMC
+  - Clipboard
+  - ShadowMC
 
 Bugs Squashed:
-    - Fixed the Deployer Recipe Glitch
-    - Removed the Dark Matter Picks EMC
-    - Removed the Philosophers Stone's EMC
+  - Fixed the Deployer Recipe Glitch
+  - Removed the Dark Matter Picks EMC
+  - Removed the Philosophers Stone's EMC
 
 
 
