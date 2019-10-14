@@ -1,3 +1,21 @@
+Changelog 1.8.0 > 1.8.1
+
+Added:
+  - Unlimited Chisel Works
+
+Updated:
+  - Item Physic Full (went from ItemPhysic_Full_1.4.25_mc1.12.2.jar to ItemPhysic_Full_1.4.26_mc1.12.2.jar)
+  
+Bugs Squashed:
+  - Tubes now give 8 Tubes instead of the original 1 Tube.
+  - A Pixel is now corrected on the Silver Ingot.
+  - Glass Fibre Cables now correctly use Silver Ingots and not dust.
+
+New Features:
+  - Nether Stars are no longer obtainable. Most Recipes were replaced with others.
+  - You can now make a Dark Matter Wand for better building.
+  - New ProjectE Textures are still coming.
+
 Changelog 1.7.1 > 1.8.0
 
 Added:
