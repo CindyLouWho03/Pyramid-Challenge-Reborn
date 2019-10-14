@@ -1,45 +1,45 @@
 Changelog 1.7.0 > 1.7.1
 
 Bugs Squashed:
-	- Fixed a bug with the resources not being applied
+  - Fixed a bug with the resources not being applied
 
 
 
 Changelog 1.6.0 > 1.7.0
 
 Added:
-	- Crafting Station
-	- Custom LAN Ports
-	- PortalBlocks
-	- Portal Gun Fixer
-	- ProjectE Integration
-	- Random Patches
-	- Simple Trophies
-	- VoxelMap
-	- Tomb Many Graves 2
+  - Crafting Station
+  - Custom LAN Ports
+  - PortalBlocks
+  - Portal Gun Fixer
+  - ProjectE Integration
+  - Random Patches
+  - Simple Trophies
+  - VoxelMap
+  - Tomb Many Graves 2
  
 
 Updated:
-	- Will do after modpack changelog maker comes back online
+  - Will do after modpack changelog maker comes back online
 
 Removed:
-	- QuestUtils
-	- MapWriter 2
-	- Corail Tombstone
-	- Expanded Equilvance
-	- Lag Goggles
-	- Project EX
-	- It’s the little things
+  - QuestUtils
+  - MapWriter 2
+  - Corail Tombstone
+  - Expanded Equilvance
+  - Lag Goggles
+  - Project EX
+  - It’s the little things
  
 
 Bugs Squashes:
-	- don’t need to run /gamerule questfile norm on Normal preset
-	- Brown Lamp is better on Normal & Insanity
+  - don’t need to run /gamerule questfile norm on Normal preset
+  - Brown Lamp is better on Normal & Insanity
  
 
 Ingame Changes:
-	- New Trophys To Replace the ugly ones
-	- Changed how items are given out on StopGap. Now they are in a chest.
+  - New Trophys To Replace the ugly ones
+  - Changed how items are given out on StopGap. Now they are in a chest.
 
 
 
@@ -47,46 +47,46 @@ Ingame Changes:
 Changelog 1.5.1 > 1.6.0
 
 Added:
-	- Charset Lib
-	- Charset Tweaks
-	- Client Tweaks
-	- Expanded Equivalence
-	- Hammer (Lib) Core
-	- iChunUtil
-	- Mapwriter 2
+  - Charset Lib
+  - Charset Tweaks
+  - Client Tweaks
+  - Expanded Equivalence
+  - Hammer (Lib) Core
+  - iChunUtil
+  - Mapwriter 2
 
 Updated:
-	- B.A.S.E (went from base-1.12.2-3.11.0.jar to base-1.12.2-3.12.0.jar)
-	- Better Builder's Wands (went from Better Builder's Wands 0.13.0 [MC1.12; rev 267] to Better Builder's Wands 0.13.2 [MC1.12; rev 271])
-	- Buildcraft (went from buildcraft-all-7.99.21.jar to buildcraft-all-7.99.23.jar)
-	- Corail Tombstone (went from Corail Tombstone 3.3.1 for 1.12.2 to Corail Tombstone 3.3.4 for 1.12.2)
-	- CraftPresence (went from CraftPresence v1.4.9.9 (1.12.2) to CraftPresence v1.5.2 (1.12.2))
-	- CraftTweaker (went from CraftTweaker2-1.12-4.1.14 to CraftTweaker2-1.12-4.1.17)
-	- CreativeCore (went from CreativeCore_v1.9.39_mc1.12.2.jar to CreativeCore_v1.9.41_mc1.12.2.jar)
+  - B.A.S.E (went from base-1.12.2-3.11.0.jar to base-1.12.2-3.12.0.jar)
+  - Better Builder's Wands (went from Better Builder's Wands 0.13.0 [MC1.12; rev 267] to Better Builder's Wands 0.13.2 [MC1.12; rev 271])
+  - Buildcraft (went from buildcraft-all-7.99.21.jar to buildcraft-all-7.99.23.jar)
+  - Corail Tombstone (went from Corail Tombstone 3.3.1 for 1.12.2 to Corail Tombstone 3.3.4 for 1.12.2)
+  - CraftPresence (went from CraftPresence v1.4.9.9 (1.12.2) to CraftPresence v1.5.2 (1.12.2))
+  - CraftTweaker (went from CraftTweaker2-1.12-4.1.14 to CraftTweaker2-1.12-4.1.17)
+  - CreativeCore (went from CreativeCore_v1.9.39_mc1.12.2.jar to CreativeCore_v1.9.41_mc1.12.2.jar)
   - CustomLoadingScreen (went from CustomLoadingScreen-1.12.2-1.4.0.2.jar to CustomLoadingScreen-1.12.2-1.4.0.3.jar)
-	- FTB Library (went from FTBLib-5.4.1.84.jar to FTBLib-5.4.1.93.jar)
-	- FTB Quests (went from FTBQuests-1.5.0.130.jar to FTBQuests-1.5.1.140.jar)
-	- FastFurnace (went from FastFurnace-1.12.2-1.2.1.jar to FastFurnace-1.12.2-1.2.2.jar)
-	- FastWorkbench (went from FastWorkbench-1.12.2-1.6.0.jar to FastWorkbench-1.12.2-1.6.1.jar)
-	- Forestry (went from forestry_1.12.2-5.8.2.382.jar to forestry_1.12.2-5.8.2.387.jar)
-	- Hardcore Map Reset (went from HardCoreMapReset-4.2.1.36.jar to HardCoreMapReset-4.2.3.39.jar)
-	- In-Game Time(r) (went from In-Game Timer 1.1.2 to In-Game Timer 1.3.1)
-	- Just Enough Items (JEI) (went from jei_1.12.2-4.14.4.264.jar to jei_1.12.2-4.15.0.272.jar)
-	- Keyboard Wizard (went from keywizard-1.12.2-1.5.4.jar to keywizard-1.12.2-1.5.5.jar)
+  - FTB Library (went from FTBLib-5.4.1.84.jar to FTBLib-5.4.1.93.jar)
+  - FTB Quests (went from FTBQuests-1.5.0.130.jar to FTBQuests-1.5.1.140.jar)
+  - FastFurnace (went from FastFurnace-1.12.2-1.2.1.jar to FastFurnace-1.12.2-1.2.2.jar)
+  - FastWorkbench (went from FastWorkbench-1.12.2-1.6.0.jar to FastWorkbench-1.12.2-1.6.1.jar)
+  - Forestry (went from forestry_1.12.2-5.8.2.382.jar to forestry_1.12.2-5.8.2.387.jar)
+  - Hardcore Map Reset (went from HardCoreMapReset-4.2.1.36.jar to HardCoreMapReset-4.2.3.39.jar)
+  - In-Game Time(r) (went from In-Game Timer 1.1.2 to In-Game Timer 1.3.1)
+  - Just Enough Items (JEI) (went from jei_1.12.2-4.14.4.264.jar to jei_1.12.2-4.15.0.272.jar)
+  - Keyboard Wizard (went from keywizard-1.12.2-1.5.4.jar to keywizard-1.12.2-1.5.5.jar)
   - Logistics Pipes (went from logisticspipes-0.10.1.111.jar to logisticspipes-0.10.1.112.jar)
-	- MPUtils (went from MPUtils v1.5.4 (MC1.12) to MPUtils v1.5.7 (MC1.12))
-	- MPUtils Basic Tools (went from MPBasic Tools 1.4.5 (1.12.2) to MPBasic Tools 1.4.11 (1.12.2))
-	- Main Menu Scale (went from MainMenuScale-1.2.jar to MainMenuScale-1.3.2.jar)
-	- No Auto Jump (went from NoAutoJump-1.12-1.0.jar to NoAutoJump-1.12.2-1.1.jar):
-	- Patchouli (went from Patchouli-1.0-16.jar to Patchouli-1.0-18.jar):
-	- Portal Gun (went from PortalGun-1.12.2-7.0.2.jar to PortalGun-1.12.2-7.1.0.jar)
-	- Reborn Core (went from RebornCore-1.12.2-3.13.4.419-universal.jar to RebornCore-1.12.2-3.13.9.433-universal.jar)
-	- TipTheScales (went from TipTheScales-1.12.2-1.0.3 to TipTheScales-1.12.2-1.0.4)
-	- Tips (went from Tips-1.12.2-1.0.6.jar to Tips-1.12.2-1.0.7.jar)
+  - MPUtils (went from MPUtils v1.5.4 (MC1.12) to MPUtils v1.5.7 (MC1.12))
+  - MPUtils Basic Tools (went from MPBasic Tools 1.4.5 (1.12.2) to MPBasic Tools 1.4.11 (1.12.2))
+  - Main Menu Scale (went from MainMenuScale-1.2.jar to MainMenuScale-1.3.2.jar)
+  - No Auto Jump (went from NoAutoJump-1.12-1.0.jar to NoAutoJump-1.12.2-1.1.jar):
+  - Patchouli (went from Patchouli-1.0-16.jar to Patchouli-1.0-18.jar):
+  - Portal Gun (went from PortalGun-1.12.2-7.0.2.jar to PortalGun-1.12.2-7.1.0.jar)
+  - Reborn Core (went from RebornCore-1.12.2-3.13.4.419-universal.jar to RebornCore-1.12.2-3.13.9.433-universal.jar)
+  - TipTheScales (went from TipTheScales-1.12.2-1.0.3 to TipTheScales-1.12.2-1.0.4)
+  - Tips (went from Tips-1.12.2-1.0.6.jar to Tips-1.12.2-1.0.7.jar)
 
 Removed Mods:
-	- PigUtils
-	- Xaero's Minimap
+  - PigUtils
+  - Xaero's Minimap
 
 Bugs Squashed:
   - Made the Normal Map load the Beast Properally
@@ -135,6 +135,7 @@ Bugs Squashed:
   - Quality of Life Bugs Fixed
 
 
+
 Changelog 1.4.3 > 1.4.4
 
 Added Mods:
@@ -149,6 +150,7 @@ Bugs Squashed:
   - Fixed the JEI Search
   - Fixed Render Distance Being Stuck at 2
   - Fixed that unity textures didn't load
+
 
 
 Changelog 1.4.2 > 1.4.3
@@ -186,13 +188,13 @@ Gameplay Changes:
 Changelog 1.4.0 > 1.4.1
 
 Added Mods:
-	- Clipboard
-	- ShadowMC
+  - Clipboard
+  - ShadowMC
 
 Bugs Squashed:
-    	- Fixed the Deployer Recipe Glitch
-    	- Removed the Dark Matter Picks EMC
-    	- Removed the Philosophers Stone's EMC
+  - Fixed the Deployer Recipe Glitch
+  - Removed the Dark Matter Picks EMC
+  - Removed the Philosophers Stone's EMC
 
 
 
@@ -201,18 +203,18 @@ Bugs Squashed:
 Changelog 1.3.1 > 1.4.0
 
 Added Mods:
-	- Default World Generator (port)
-  	- HCTM (in favor of RetroComputers)
+  - Default World Generator (port)
+  - HCTM (in favor of RetroComputers)
 
 Updated Mods:
-	- FTB Library (went from FTBLib-5.4.1.83.jar to FTBLib-5.4.1.84.jar)
-	- FTB Quests (went from FTBQuests-1.5.0.129.jar to FTBQuests-1.5.0.130.jar)
-	- Inventory Tweaks (went from Inventory Tweaks 1.64+dev.145 to Inventory Tweaks 1.64+dev.146)
-	- Iron Chests (went from ironchest-1.12.2-7.0.58.841.jar to ironchest-1.12.2-7.0.59.842.jar)
+  - FTB Library (went from FTBLib-5.4.1.83.jar to FTBLib-5.4.1.84.jar)
+  - FTB Quests (went from FTBQuests-1.5.0.129.jar to FTBQuests-1.5.0.130.jar)
+  - Inventory Tweaks (went from Inventory Tweaks 1.64+dev.145 to Inventory Tweaks 1.64+dev.146)
+  - Iron Chests (went from ironchest-1.12.2-7.0.58.841.jar to ironchest-1.12.2-7.0.59.842.jar)
 
 Removed Mods:
-	- Lockdown (This doesnt work well will Deafult World Generator)
-	- RetroBees (Until the server side issue is fixed)
+  - Lockdown (This doesnt work well will Deafult World Generator)
+  - RetroBees (Until the server side issue is fixed)
 
 Gameplay Changes:
   - Added a stock world geneartor for people who like overworlds
@@ -238,8 +240,6 @@ Squashed Bugs:
 
 
 
-
-
 Changelog 1.3.0 > 1.3.1
 
 Gameplay Changes:
@@ -251,12 +251,12 @@ Gameplay Changes:
 Changelog 1.2.2 > 1.3.0
 
 Updated Mods:
-	- Better Builder's Wands (went from Better Builder's Wands 0.12.1 [MC1.12; rev 254] to Better Builder's Wands 0.13.0 [MC1.12; rev 267])
-	- FTB Library (went from FTBLib-5.4.1.81.jar to FTBLib-5.4.1.83.jar)
-	- FTB Quests (went from FTBQuests-1.5.0.124.jar to FTBQuests-1.5.0.129.jar)
-	- Industrial Craft (went from industrialcraft-2-2.8.110-ex112.jar to industrialcraft-2-2.8.111-ex112.jar)
-	- Project EX (went from ProjectEX-1.0.0.9.jar to ProjectEX-1.0.0.13.jar)
-	- Super Sound Muffler (went from supersoundmuffler-1.12.1-1.0.2.9.jar to supersoundmuffler-1.12.2-1.0.2.10.jar)
+  - Better Builder's Wands (went from Better Builder's Wands 0.12.1 [MC1.12; rev 254] to Better Builder's Wands 0.13.0 [MC1.12; rev 267])
+  - FTB Library (went from FTBLib-5.4.1.81.jar to FTBLib-5.4.1.83.jar)
+  - FTB Quests (went from FTBQuests-1.5.0.124.jar to FTBQuests-1.5.0.129.jar)
+  - Industrial Craft (went from industrialcraft-2-2.8.110-ex112.jar to industrialcraft-2-2.8.111-ex112.jar)
+  - Project EX (went from ProjectEX-1.0.0.9.jar to ProjectEX-1.0.0.13.jar)
+  - Super Sound Muffler (went from supersoundmuffler-1.12.1-1.0.2.9.jar to supersoundmuffler-1.12.2-1.0.2.10.jar)
 
 Gameplay Changes:
   - Added the StopGap Gamemode.
@@ -266,22 +266,22 @@ Gameplay Changes:
 Changelog 1.2.1 > 1.2.2
 
 Mod Additions:
-	- BetterFps
-	- Colored Tooltips
-	- Equipment Tooltips
-	- FastFurnace
-	- FastWorkbench
-	- Gravitation Suite
-	- Morpheus
+  - BetterFps
+  - Colored Tooltips
+  - Equipment Tooltips
+  - FastFurnace
+  - FastWorkbench
+  - Gravitation Suite
+  - Morpheus
 
 Updated Mods:
-	- FTB Library (went from FTBLib-5.4.1.80.jar to FTBLib-5.4.1.81.jar)
-	- Industrial Craft (went from Industrialcraft-2-2.8.109-ex112 to industrialcraft-2-2.8.110-ex112.jar)
-	-  Project EX (went from ProjectEX-1.0.0.6.jar to ProjectEX-1.0.0.9.jar)
-	-  RetroComputers (went from retrocomputers-3.0.1.jar to retrocomputers-3.0.2.jar)
+  - FTB Library (went from FTBLib-5.4.1.80.jar to FTBLib-5.4.1.81.jar)
+  - Industrial Craft (went from Industrialcraft-2-2.8.109-ex112 to industrialcraft-2-2.8.110-ex112.jar)
+  -  Project EX (went from ProjectEX-1.0.0.6.jar to ProjectEX-1.0.0.9.jar)
+  -  RetroComputers (went from retrocomputers-3.0.1.jar to retrocomputers-3.0.2.jar)
 
 Removed:
-	- TheBOMPlugin
+  - TheBOMPlugin
 
 Gameplay Changes:
   - Added the newer IC2 textures for the older machines. They look a little better.
