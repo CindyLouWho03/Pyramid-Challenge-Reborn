@@ -1,3 +1,33 @@
+Changelog 1.7.1 > 1.8.0
+
+Added:
+  - Chisel (can't hurt)
+  - ConnectedTexturesMod (chisel dependency)
+  - Crafting Tweaks (quality of life)
+  - Default Options (lul keybind fixes)
+  - Expanded Equilvance (derp)
+  - FTB Tutorial Mod (prep for 1.9.0)
+  - LetsEncryptCraft (no clue how this got in here)
+  - YUNoMakeGoodMap (for no cheeky players hitting the chunk borders)
+
+Updated: 
+  - Forestry (went from forestry_1.12.2-5.8.2.406.jar to forestry_1.12.2-5.8.2.408.jar)
+  - WanionLib (went from WanionLib-1.12.2-2.3.jar to WanionLib-1.12.2-2.4.jar)
+ 
+ Bugs Squashed:
+  - Fixed the Bucket EMC being the same with fluids in it (no more EMC farm on that)
+  - Removed EMC from Rubber and Refined Iron fixing most IC2 machines having it in the first place (this is what Slowpoke wanted back in 2016)
+  
+  In Game Changes:
+  
+  - Insanity Map is now using a new generation method (try it plz)
+  - Stone Slab now can be converted into its father Stone (for me to not dump Stone Slabs in my chest)
+  - Bronze Age farms are now labeled with Managed (still can be either but i labaled it to not confuse people)
+  - Cactus, Apatite and, Sugar Cane can now be made with UU Matter (was supposed to be in here back in April, derp me)
+  - ProjectE now has some unified textures (please dont bash on me)
+  - Changelog is updated in game (because i didn't update this file. Dont hurt me)
+  - IC2 Cables dont have EMC any longer (to fix them breaking when taken out)
+  
 Changelog 1.7.0 > 1.7.1
 
 Bugs Squashed:
@@ -15,12 +45,11 @@ Added:
   - ProjectE Integration
   - Random Patches
   - Simple Trophies
-  - VoxelMap
   - Tomb Many Graves 2
+  - VoxelMap
  
-
 Updated:
-  - Will do after modpack changelog maker comes back online
+  -
 
 Removed:
   - QuestUtils
@@ -40,9 +69,6 @@ Bugs Squashes:
 Ingame Changes:
   - New Trophys To Replace the ugly ones
   - Changed how items are given out on StopGap. Now they are in a chest.
-
-
-
 
 Changelog 1.5.1 > 1.6.0
 
