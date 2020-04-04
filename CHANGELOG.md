@@ -1,3 +1,66 @@
+Changelog 1.8.1 --> 2.0.0
+
+Added:
+- BNBGamingLib
+- Better Chat
+- Buildcraft Fuels for IC2
+- Crash To Main Menu
+- Custom Backgrounds
+- DefaultSettings
+- DupeFix Project
+- EMC Builders Wand
+- Loading Screens
+- MTLib
+- More Electric Tools
+- More Overlays
+- MoreTweaker
+- Notes
+- Patchouli
+- Phosphor (Forge)
+- Player Plates (Forge)
+- Smooth Scrolling Everywhere (Forge)
+- Super Sound Muffler: Revived
+- TheBOMPlugin
+
+Updated:
+- Backups (Backups-1.12.2-1.4.7.jar --> Backups-1.12.2-1.5.4.jar)
+- Bad Mobs (BadMobs-1.12.2-1.1.39.jar --> BadMobs-1.12.2-1.1.40.jar)
+- Buildcraft (buildcraft-all-7.99.24.3.jar --> buildcraft-all-7.99.24.6.jar)
+- Charset Lib (Charset Lib 0.5.6.3 --> Charset Lib 0.5.6.4)
+- Chisel (Chisel - MC1.12.2-0.2.1.35 --> Chisel - MC1.12.2-1.0.2.45)
+- ConnectedTexturesMod (CTM - MC1.12.2-0.3.3.22 --> CTM - MC1.12.2-1.0.2.31)
+- Controlling (Controlling-3.0.7 --> Controlling-3.0.8)
+- CraftPresence (CraftPresence v1.5.5 (1.12.2) --> CraftPresence v1.6.1 (1.12.2))
+- CraftTweaker (CraftTweaker2-1.12-4.1.19 --> CraftTweaker2-1.12-4.1.20)
+- Crafting Station (craftingstation-0.1.6.jar --> craftingstation-0.1.7b.jar)
+- CreativeCore (CreativeCore_v1.9.68_mc1.12.2.jar --> CreativeCore_v1.10.9_mc1.12.2.jar)
+- Custom Main Menu (CustomMainMenu-MC1.12.2-2.0.9.jar --> CustomMainMenu-MC1.12.2-2.0.9.1.jar)
+- FTB Library (FTBLib-5.4.3.141.jar --> FTBLib-5.4.7.0.jar)
+- FTB Quests (FTBQuests-1.7.2.218.jar --> FTBQuests-1.8.0.237.jar)
+- FastWorkbench (FastWorkbench-1.12.2-1.7.2.jar --> FastWorkbench-1.12.2-1.7.3.jar)
+- FoamFix (FoamFix 0.10.7 (1.12.2) --> FoamFix 0.10.10 (1.12.2))
+- Forestry (forestry_1.12.2-5.8.2.408.jar --> forestry_1.12.2-5.8.2.418.jar)
+- Hammer (Lib) Core ([1.12.2] Hammer Core - 2.0.5.2 --> [1.12.2] Hammer Core - 2.0.6.14)
+- Industrial Craft (industrialcraft-2-2.8.187-ex112.jar --> industrialcraft-2-2.8.188-ex112.jar)
+- Inventory Tweaks (Inventory Tweaks 1.64+dev.146 --> Inventory Tweaks 1.64+dev.150)
+- Iron Tanks (Iron Tanks 2.1.0 Beta 14 --> irontanks-1.12.2-2.1.0-beta.18.jar)
+- ItemPhysic Full (ItemPhysic_Full_1.4.25_mc1.12.2.jar --> ItemPhysic_Full_1.4.32_mc1.12.2.jar)
+- Just Enough Items (JEI) (jei_1.12.2-4.15.0.291.jar --> jei_1.12.2-4.15.0.293.jar)
+- Keyboard Wizard (keywizard-1.12.2-1.7.1.jar --> keywizard-1.12.2-1.7.3.jar)
+- ProjectE Integration (ProjectE Integration - 2.3.1 --> ProjectE Integration - 2.5.0)
+- RandomPatches (RandomPatches 1.12.2-1.19.1.1 --> RandomPatches 1.12.2-1.21.0.0)
+- Reborn Core (RebornCore-1.12.2-3.16.3.476-universal.jar --> RebornCore-1.12.2-3.19.2.522-universal.jar)
+- Simple Trophies (simpletrophies-1.2.1.jar --> simpletrophies-1.2.2.1.jar)
+- TOP Addons (topaddons-1.12.2-1.11.0.jar --> topaddons-1.12.2-1.13.0.jar)
+- UniDict (UniDict-1.12.2-2.9.3.jar --> UniDict-1.12.2-2.9.6.jar)
+
+Removed:
+- Not Enough Items 1.8.+
+- Teckle
+- Tips
+- VanillaFix
+- Super Sound Muffer
+
 Changelog 1.8.0 > 1.8.1
 
 Added:
