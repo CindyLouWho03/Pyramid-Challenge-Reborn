@@ -12,29 +12,29 @@ Added:
 - WorldEdit - (Derpy me)
 
 Updated:
-	Backups (Backups-1.12.2-1.5.4.jar --> Backups-1.12.2-1.5.6.jar):
-	CraftTweaker (CraftTweaker2-1.12-4.1.20 --> CraftTweaker2-1.12-4.1.20.576.jar):
-	Crafting Station (craftingstation-0.1.7b.jar --> craftingstation-0.1.7c.jar):
-	CreativeCore (CreativeCore_v1.10.9_mc1.12.2.jar --> CreativeCore_v1.10.16_mc1.12.2.jar):
-	DefaultSettings-1.8.x-1.12.x-2.1.14):
-	DupeFix Project (DupeFix Project 2.0.jar --> DupeFix Project 2.4.1.jar):
-	Expanded Equivalence ([1.12.2] Expanded Equivalence - 13r --> [1.12.2] Expanded Equivalence - 12.3.16):
-	FTB Library (FTBLib-5.4.7.0.jar --> FTBLib-5.4.7.2.jar):
-	FTB Quests (FTBQuests-1.8.0.237.jar --> FTBQuests-1.8.1.1.jar):
-	Forestry (forestry_1.12.2-5.8.2.418.jar --> forestry_1.12.2-5.8.2.422.jar):
-	Hammer (Lib) Core ([1.12.2] Hammer Core - 2.0.6.14 --> [1.12.2] Hammer Core - 2.0.6.19):
-	Industrial Craft (industrialcraft-2-2.8.188-ex112.jar --> industrialcraft-2-2.8.190-ex112.jar):
-	Inventory Tweaks (Inventory Tweaks 1.64+dev.150 --> Inventory Tweaks 1.64+dev.151):
-	ItemPhysic Full (ItemPhysic_Full_1.4.32_mc1.12.2.jar --> ItemPhysic_Full_1.4.34_mc1.12.2.jar):
-	JEI Integration (jeiintegration_1.12.2-1.5.1.36 --> jeiintegration_1.12.2-1.6.0):
-	Just Enough Items (JEI) (jei_1.12.2-4.15.0.293.jar --> jei_1.12.2-4.15.0.295.jar):
-	Logistics Pipes (Logistics Pipes 0.10.2.216 --> Logistics Pipes 0.10.3.41):
-	More Electric Tools (Archived file --> MoreElectricTools.v1.63):
-	MoreTweaker (MoreTweaker-1.0.13.jar --> MoreTweaker-1.0.16.jar):
-	RandomPatches (RandomPatches 1.12.2-1.21.0.0 --> RandomPatches 1.12.2-1.21.0.3):
-	Reborn Core (RebornCore-1.12.2-3.19.2.522-universal.jar --> RebornCore-1.12.2-3.19.4.529-universal.jar):
-	Smooth Scrolling Everywhere (Forge) ([Forge 1.12.x] v1.0 --> [Forge 1.12.x] v1.1):
-	VoxelMap (Archived file --> (Forge) VoxelMap for 1.12.2):
+- Backups (Backups-1.12.2-1.5.4.jar --> Backups-1.12.2-1.5.6.jar)
+- CraftTweaker (CraftTweaker2-1.12-4.1.20 --> CraftTweaker2-1.12-4.1.20.576.jar)
+- Crafting Station (craftingstation-0.1.7b.jar --> craftingstation-0.1.7c.jar
+- CreativeCore (CreativeCore_v1.10.9_mc1.12.2.jar --> CreativeCore_v1.10.16_mc1.12.2.jar)
+- DefaultSettings-1.8.x-1.12.x-2.1.14)
+- DupeFix Project (DupeFix Project 2.0.jar --> DupeFix Project 2.4.1.jar)
+- Expanded Equivalence ([1.12.2] Expanded Equivalence - 13r --> [1.12.2] Expanded Equivalence - 12.3.16)
+- FTB Library (FTBLib-5.4.7.0.jar --> FTBLib-5.4.7.2.jar)
+- FTB Quests (FTBQuests-1.8.0.237.jar --> FTBQuests-1.8.1.1.jar)
+- Forestry (forestry_1.12.2-5.8.2.418.jar --> forestry_1.12.2-5.8.2.422.jar)
+- Hammer (Lib) Core ([1.12.2] Hammer Core - 2.0.6.14 --> [1.12.2] Hammer Core - 2.0.6.19)
+- Industrial Craft (industrialcraft-2-2.8.188-ex112.jar --> industrialcraft-2-2.8.190-ex112.jar)
+- Inventory Tweaks (Inventory Tweaks 1.64+dev.150 --> Inventory Tweaks 1.64+dev.151)
+- ItemPhysic Full (ItemPhysic_Full_1.4.32_mc1.12.2.jar --> ItemPhysic_Full_1.4.34_mc1.12.2.jar)
+- JEI Integration (jeiintegration_1.12.2-1.5.1.36 --> jeiintegration_1.12.2-1.6.0)
+- Just Enough Items (JEI) (jei_1.12.2-4.15.0.293.jar --> jei_1.12.2-4.15.0.295.jar)
+- Logistics Pipes (Logistics Pipes 0.10.2.216 --> Logistics Pipes 0.10.3.41)
+- More Electric Tools (Archived file --> MoreElectricTools.v1.63)
+- MoreTweaker (MoreTweaker-1.0.13.jar --> MoreTweaker-1.0.16.jar)
+- RandomPatches (RandomPatches 1.12.2-1.21.0.0 --> RandomPatches 1.12.2-1.21.0.3)
+- Reborn Core (RebornCore-1.12.2-3.19.2.522-universal.jar --> RebornCore-1.12.2-3.19.4.529-universal.jar)
+- Smooth Scrolling Everywhere (Forge) ([Forge 1.12.x] v1.0 --> [Forge 1.12.x] v1.1)
+- VoxelMap (Archived file --> (Forge) VoxelMap for 1.12.2)
   
 Removed:
 - Hardcore Map Reset - (For Mad Help)
