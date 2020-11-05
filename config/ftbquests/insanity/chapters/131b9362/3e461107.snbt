@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "4fa7a58e",
+		type: "item",
+		items: [{
+			id: "ic2:nano_leggings",
+			tag: {},
+			Damage: 26s
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

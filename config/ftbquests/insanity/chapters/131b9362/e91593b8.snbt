@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "7d3f032a",
+		type: "item",
+		items: [{
+			id: "ic2:nano_helmet",
+			tag: {},
+			Damage: 26s
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

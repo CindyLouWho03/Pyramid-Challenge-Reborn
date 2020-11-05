@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "4a5d0521",
+		type: "item",
+		items: [{
+			id: "forestry:refractory",
+			tag: {
+				Fluid: {
+					FluidName: "lava",
+					Amount: 1000
+				}
+			},
+			Damage: 1s
+		}],
+		count: 64L,
+		consume_items: true
+	}]
+}

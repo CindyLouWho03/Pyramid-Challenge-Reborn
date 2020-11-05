@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "61c50a0c",
+		type: "item",
+		items: [{
+			item: "ic2:solar_helmet"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

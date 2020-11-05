@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "dfa858ca",
+		type: "item",
+		items: [{
+			item: "compactsolars:compact_solar_block"
+		}],
+		consume_items: true
+	}]
+}

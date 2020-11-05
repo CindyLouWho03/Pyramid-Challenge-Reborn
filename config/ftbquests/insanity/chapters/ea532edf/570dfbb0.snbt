@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "ba799653",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:strong_healing"
+			}
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

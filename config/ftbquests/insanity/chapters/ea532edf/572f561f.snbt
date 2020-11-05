@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "41c02f18",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:long_slowness"
+			}
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

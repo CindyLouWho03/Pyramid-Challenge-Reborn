@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "item": "ic2:itemmisc|180",
+      "emc": 4096
+    },
+    {
+      "item": "contenttweaker:oil_bucket|0",
+      "emc": 2186
+    },
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 0
+    },
+    {
+      "item": "teckle:nikolite|0",
+      "emc": 128
+    },
+    {
+      "item": "tombstone:grave_dust|0",
+      "emc": 128
+    },
+    {
+      "item": "projectred-exploration:stone|3",
+      "emc": 1
+    },
+    {
+      "item": "projectred-exploration:stone|0",
+      "emc": 1
+    },
+    {
+      "item": "projectred-exploration:stone|2",
+      "emc": 1
+    },
+    {
+      "item": "ic2:resource|4",
+      "emc": 0
+    },
+    {
+      "item": "forestry:apatite|0",
+      "emc": 128
+    },
+    {
+      "item": "projectex:knowledge_sharing_book|0",
+      "emc": 1
+    },
+    {
+      "item": "projecte:item.pe_dm_pick|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:water_bucket|0",
+      "emc": 769
+    },
+    {
+      "item": "minecraft:lava_bucket|0",
+      "emc": 832
+    },
+    {
+      "item": "ic2:crafting|0",
+      "emc": 0
+    },
+    {
+      "item": "ic2:ingot|7",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|0",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|1",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|2",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|6",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|5",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|4",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|3",
+      "emc": 0
+    },
+    {
+      "item": "projectred-core:resource_item|105",
+      "emc": 64
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|0",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|1",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|2",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|4",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|3",
+      "emc": 0
+    }
+  ]
+}

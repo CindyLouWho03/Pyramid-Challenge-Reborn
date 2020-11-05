@@ -1,0 +1,12 @@
+{
+	x: 1.0d,
+	y: -11.0d,
+	tasks: [{
+		uid: "1a898440",
+		type: "item",
+		items: [{
+			item: "compactsolars:compact_solar_block 1 1"
+		}],
+		consume_items: true
+	}]
+}

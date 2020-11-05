@@ -1,0 +1,12 @@
+{
+	x: -8.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "0e229e99",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:distiller"
+		}],
+		consume_items: true
+	}]
+}

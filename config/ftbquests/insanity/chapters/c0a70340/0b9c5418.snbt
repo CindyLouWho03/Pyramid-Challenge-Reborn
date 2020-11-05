@@ -1,0 +1,12 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "fbb37de9",
+		type: "item",
+		items: [{
+			item: "retrocomputers:computer"
+		}],
+		consume_items: true
+	}]
+}

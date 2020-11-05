@@ -1,0 +1,12 @@
+{
+	x: -2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "60ced813",
+		type: "item",
+		items: [{
+			item: "retrocomputers:disk_drive"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "672fb105",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_black_hole"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

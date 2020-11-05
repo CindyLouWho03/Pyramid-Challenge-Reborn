@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: -13.0d,
+	tasks: [{
+		uid: "58307e1c",
+		type: "item",
+		items: [{
+			item: "minecraft:bedrock"
+		}],
+		consume_items: true
+	}]
+}

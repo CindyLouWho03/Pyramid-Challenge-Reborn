@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "783aa8da",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_ignition"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

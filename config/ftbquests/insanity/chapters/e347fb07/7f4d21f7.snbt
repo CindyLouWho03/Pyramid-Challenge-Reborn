@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "a726d056",
+		type: "item",
+		items: [{
+			item: "minecraft:tnt"
+		}],
+		consume_items: true
+	}]
+}

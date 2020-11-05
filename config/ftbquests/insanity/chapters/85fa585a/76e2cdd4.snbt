@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "a76d1cc1",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_archangel_smite"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

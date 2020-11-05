@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "7b4bf869",
+		type: "item",
+		items: [{
+			item: "minecraft:torch"
+		}],
+		count: 4L,
+		consume_items: true
+	}]
+}

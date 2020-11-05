@@ -1,0 +1,12 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "0aa69f10",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:autoworkbench_item"
+		}],
+		consume_items: true
+	}]
+}

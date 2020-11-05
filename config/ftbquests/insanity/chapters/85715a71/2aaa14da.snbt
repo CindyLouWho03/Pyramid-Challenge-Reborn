@@ -1,0 +1,16 @@
+{
+	title: "Mushroom Farm",
+	x: -3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "1f45ce96",
+		type: "item",
+		items: [{
+			item: "forestry:farm_mushroom"
+		},
+		{
+			item: "forestry:farm_mushroom 1 1"
+		}],
+		consume_items: true
+	}]
+}

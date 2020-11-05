@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "f122f813",
+		type: "item",
+		title: "Arboretum",
+		items: [{
+			item: "forestry:arboretum"
+		},
+		{
+			item: "forestry:arboretum 1 1"
+		}],
+		consume_items: true
+	}]
+}

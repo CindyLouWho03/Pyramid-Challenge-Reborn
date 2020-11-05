@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "96835210",
+		type: "item",
+		items: [{
+			item: "projecte:nova_cataclysm"
+		}],
+		consume_items: true
+	}]
+}

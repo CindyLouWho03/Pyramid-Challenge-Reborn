@@ -1,0 +1,42 @@
+{
+	title: "Ring of Arcana",
+	x: 2.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "dded1867",
+		type: "item",
+		icon: {
+			id: "projecte:item.pe_arcana_ring",
+			tag: {
+				Mode: 0b
+			}
+		},
+		items: [{
+			id: "projecte:item.pe_arcana_ring",
+			tag: {
+				Mode: 0b
+			}
+		},
+		{
+			id: "projecte:item.pe_arcana_ring",
+			tag: {
+				Mode: 1b
+			}
+		},
+		{
+			id: "projecte:item.pe_arcana_ring",
+			tag: {
+				Mode: 2b
+			}
+		},
+		{
+			id: "projecte:item.pe_arcana_ring",
+			tag: {
+				Mode: 3b
+			}
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

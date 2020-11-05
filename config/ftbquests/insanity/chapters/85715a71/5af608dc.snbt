@@ -1,0 +1,12 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "57e640fb",
+		type: "item",
+		items: [{
+			item: "forestry:engine_generator"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "f02ac1cd",
+		type: "item",
+		items: [{
+			item: "logisticspipes:pipe_chassis_mk5"
+		}],
+		count: 64L,
+		consume_items: true
+	}]
+}

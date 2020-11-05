@@ -1,0 +1,12 @@
+{
+	x: 2.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "562cb617",
+		type: "item",
+		items: [{
+			item: "projecte:dm_furnace"
+		}],
+		consume_items: true
+	}]
+}

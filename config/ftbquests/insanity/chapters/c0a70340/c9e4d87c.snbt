@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "23ce2da0",
+		type: "item",
+		items: [{
+			item: "powerline:pump"
+		}]
+	}]
+}

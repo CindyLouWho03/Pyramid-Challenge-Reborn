@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "2d9210c4",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_void_ring"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "The Rings",
+	icon: "minecraft:concrete 1 11",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

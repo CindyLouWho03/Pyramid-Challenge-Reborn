@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "7435b60a",
+		type: "item",
+		items: [{
+			id: "ic2:energy_crystal",
+			tag: {},
+			Damage: 26s
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

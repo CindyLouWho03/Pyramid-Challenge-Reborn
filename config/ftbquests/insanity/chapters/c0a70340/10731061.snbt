@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "33a69695",
+		type: "item",
+		items: [{
+			item: "retrocomputers:redstone_port_analog"
+		}],
+		count: 8L,
+		consume_items: true
+	}]
+}

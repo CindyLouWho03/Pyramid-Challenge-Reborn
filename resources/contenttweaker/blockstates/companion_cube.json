@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "textures": {
+        "all": "contenttweaker:blocks/companion_cube"
+      },
+      "model": "cube_all",
+      "uvlock": true
+    },
+    "variants": {
+      "normal": [{}],
+      "inventory": {
+        "transform": "forge:default-block"
+      }
+    }
+  }

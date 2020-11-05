@@ -1,0 +1,12 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "fcd094eb",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_ring_iron_band"
+		}],
+		consume_items: true
+	}]
+}

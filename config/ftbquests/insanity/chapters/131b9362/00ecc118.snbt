@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "90ba7607",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_boots",
+			tag: {},
+			Damage: 26s
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

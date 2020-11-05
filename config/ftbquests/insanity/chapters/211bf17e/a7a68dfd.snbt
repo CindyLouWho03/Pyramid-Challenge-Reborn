@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "13aa8408",
+		type: "item",
+		items: [{
+			id: "forestry:refractory",
+			tag: {
+				Fluid: {
+					FluidName: "bio.ethanol",
+					Amount: 1000
+				}
+			},
+			Damage: 1s
+		}],
+		count: 64L,
+		consume_items: true
+	}]
+}

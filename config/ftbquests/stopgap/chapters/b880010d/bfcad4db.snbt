@@ -1,0 +1,13 @@
+{
+	title: "Retriever",
+	x: -10.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "d1ba5bb7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:retriever"
+		}],
+		consume_items: true
+	}]
+}

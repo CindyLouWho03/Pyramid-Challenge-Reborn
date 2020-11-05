@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "599c928b",
+		type: "item",
+		items: [{
+			item: "forestry:engine_electrical"
+		}],
+		consume_items: true
+	}]
+}

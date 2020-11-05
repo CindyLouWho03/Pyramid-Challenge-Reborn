@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "8c7003a6",
+		type: "item",
+		items: [{
+			id: "buildcraftsilicon:plug_gate",
+			tag: {
+				gate: {
+					material: 3b,
+					modifier: 1b,
+					logic: 1b
+				}
+			}
+		}],
+		count: 64L,
+		consume_items: true
+	}]
+}

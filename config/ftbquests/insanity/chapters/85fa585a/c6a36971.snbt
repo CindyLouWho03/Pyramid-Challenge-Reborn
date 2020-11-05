@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "f8d65aac",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_harvest_god"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

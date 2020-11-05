@@ -1,0 +1,7 @@
+{
+	title: "Shit Ton Of Energy",
+	icon: "minecraft:concrete",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

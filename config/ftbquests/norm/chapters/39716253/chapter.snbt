@@ -1,0 +1,7 @@
+{
+	title: "Normal",
+	icon: "minecraft:nether_star",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

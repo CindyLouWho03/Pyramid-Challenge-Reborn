@@ -1,0 +1,12 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "2ee77ddc",
+		type: "item",
+		items: [{
+			item: "projecte:nova_catalyst"
+		}],
+		consume_items: true
+	}]
+}

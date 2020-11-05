@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "f9764bb8",
+		type: "item",
+		items: [{
+			item: "twa:turret 1 2"
+		}]
+	}]
+}

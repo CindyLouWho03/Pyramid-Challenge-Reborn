@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "e0596928",
+		type: "item",
+		items: [{
+			item: "minecraft:clock"
+		}],
+		consume_items: true
+	}]
+}

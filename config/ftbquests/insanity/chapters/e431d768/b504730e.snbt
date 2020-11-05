@@ -1,0 +1,9 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "ff54087b",
+		type: "buildcraft_mj",
+		value: 1000000000000L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "0bf8ab92",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_helmet",
+			tag: {},
+			Damage: 26s
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

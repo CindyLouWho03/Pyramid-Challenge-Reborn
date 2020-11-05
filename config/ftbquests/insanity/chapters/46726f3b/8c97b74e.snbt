@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "829b55c4",
+		type: "item",
+		items: [{
+			item: "forestry:apiary"
+		}],
+		consume_items: true
+	}]
+}

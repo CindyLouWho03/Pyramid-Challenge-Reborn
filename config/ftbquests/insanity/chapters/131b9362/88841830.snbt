@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "b5c47596",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_chestplate",
+			tag: {},
+			Damage: 26s
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

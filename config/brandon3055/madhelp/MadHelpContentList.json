@@ -1,0 +1,41 @@
+[
+	{
+		"displayName": "Insanity",
+		"fileName": "Insanity.zip",
+		"description": "Insanity Map",
+		"info": [
+			"[c]The harder version of the FTB Pyramid Map"
+		],
+		"releaseNumber": "1",
+		"downloadURL": "https://cdn.crankysupertoon.live/dist/packs/pyramid/maps/Insanity.zip",
+		"isRegional": false,
+		"regionInputPath": "",
+		"regionOutputPath": ""
+	},
+	{
+		"displayName": "Normal",
+		"fileName": "Normal.zip",
+		"description": "Normal Map",
+		"info": [
+			"[c]Original FTB Pyramid Map"
+		],
+		"releaseNumber": "0",
+		"downloadURL": "https://cdn.crankysupertoon.live/dist/packs/pyramid/maps/Normal.zip",
+		"isRegional": false,
+		"regionOutputPath": "",
+		"regionOutputPath": ""
+	},
+    {
+		"displayName": "Stopgap",
+		"fileName": "Stopgap.zip",
+		"description": "Stopgap Map",
+		"info": [
+			"[c]Original FTB Bedrock Map"
+		],
+		"releaseNumber": "0",
+		"downloadURL": "https://cdn.crankysupertoon.live/dist/packs/pyramid/maps/Stopgap.zip",
+		"isRegional": false,
+		"regionInputPath": "",
+		"regionOutputPath": ""
+	}
+]

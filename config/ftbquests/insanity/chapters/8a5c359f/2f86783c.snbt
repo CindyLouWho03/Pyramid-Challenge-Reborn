@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "2f9af6d0",
+		type: "item",
+		items: [{
+			item: "retrocomputers:screwdriver"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -14.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "efc4f68e",
+		type: "item",
+		items: [{
+			item: "projecte:collector_mk3"
+		}],
+		consume_items: true
+	}]
+}

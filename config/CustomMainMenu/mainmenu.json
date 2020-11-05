@@ -1,0 +1,191 @@
+//Coded by CrankySupertoon
+{
+
+    "buttons": {
+        "download": {
+            "text": "Download Maps",
+            "posX": -85,
+            "posY": 5,
+            "width": 80,
+            "height": 24,
+            "imageWidth": 940,
+            "imageHeight": 258,
+            "normalTextColor": 16777215,
+            "hoverTextColor": 7372944,
+            "texture": "mainmenu:button.png",
+            "alignment": "top_right",
+            "wrappedButton": "426"
+        },
+        "singleplayer": {
+            "text": "menu.singleplayer",
+            "posX": -85,
+            "posY": -40,
+            "width": 80,
+            "height": 24,
+            "imageWidth": 940,
+            "imageHeight": 258,
+            "normalTextColor": 16777215,
+            "hoverTextColor": 7372944,
+            "texture": "mainmenu:button.png",
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "singleplayer"
+            }
+        },
+        "multiplayer": {
+            "text": "menu.multiplayer",
+            "posX": 5,
+            "posY": -40,
+            "width": 80,
+            "height": 24,
+            "imageWidth": 940,
+            "imageHeight": 258,
+            "normalTextColor": 16777215,
+            "hoverTextColor": 7372944,
+            "texture": "mainmenu:button.png",
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
+        },
+        "mods": {
+            "text": "fml.menu.mods",
+            "posX": -40,
+            "posY": -5,
+            "width": 80,
+            "height": 24,
+            "imageWidth": 940,
+            "imageHeight": 258,
+            "normalTextColor": 16777215,
+            "hoverTextColor": 7372944,
+            "texture": "mainmenu:button.png",
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "mods"
+            }
+        },
+        "options": {
+            "text": "menu.options",
+            "posX": -130,
+            "posY": -5,
+            "width": 80,
+            "height": 24,
+            "imageWidth": 940,
+            "imageHeight": 258,
+            "normalTextColor": 16777215,
+            "hoverTextColor": 7372944,
+            "texture": "mainmenu:button.png",
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "options"
+            }
+        },
+        "languages": {
+            "text": "Languages",
+            "posX": 50,
+            "posY": -5,
+            "width": 80,
+            "height": 24,
+            "imageWidth": 940,
+            "imageHeight": 258,
+            "normalTextColor": 16777215,
+            "hoverTextColor": 7372944,
+            "texture": "mainmenu:button.png",
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "languages"
+            }
+        },
+        "discord": {
+            "text": "Discord",
+            "posX": -85,
+            "posY": 30,
+            "width": 80,
+            "height": 24,
+            "imageWidth": 940,
+            "imageHeight": 258,
+            "normalTextColor": 16777215,
+            "hoverTextColor": 7372944,
+            "texture": "mainmenu:button.png",
+            "alignment": "center",
+            "action": {
+                "type": "openLink",
+                "link": "https://discord.gg/F55qYKm"
+            }
+        },
+        "quit": {
+            "text": "menu.quit",
+            "posX": 5,
+            "posY": 30,
+            "width": 80,
+            "height": 24,
+            "imageWidth": 940,
+            "imageHeight": 258,
+            "normalTextColor": 16777215,
+            "hoverTextColor": 7372944,
+            "texture": "mainmenu:button.png",
+            "alignment": "center",
+            "action": {
+                "type": "quit"
+            }
+        }
+    },
+    "labels": {
+        "forge": {
+            "text": "Forge #forgeversion#",
+            "posX": 3,
+            "posY": -20,
+            "fontSize": 1,
+            "color": -1,
+            "hoverColor": -1,
+            "alignment": "bottom_left"
+        },
+        "modsloaded": {
+            "text": "#modsloaded# Mods Loaded",
+            "posX": 3,
+            "posY": -10,
+            "fontSize": 1,
+            "color": -1,
+            "hoverColor": -1,
+            "alignment": "bottom_left"
+        },
+        "minecraft": {
+            "text": "Minecraft 1.12.2",
+            "posX": -81,
+            "posY": -20,
+            "fontSize": 1,
+            "color": -1,
+            "hoverColor": -1,
+            "alignment": "bottom_right"
+        },
+        "mojang": {
+            "text": "Copyright Mojang AB & CrankySupertoon",
+            "posX": -207,
+            "posY": -10,
+            "fontSize": 1,
+            "color": -1,
+            "alignment": "bottom_right",
+            "action": {
+                "type": "openGui",
+                "gui": "credits"
+            }
+        }
+    },
+    "other":{
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["mainmenu:bg1.png","mainmenu:bg2.png","mainmenu:bg3.png", "mainmenu:bg4.png"],
+                "displayDuration" : 1200,
+                "fadeDuration" : 100
+            }
+        }
+    }
+}

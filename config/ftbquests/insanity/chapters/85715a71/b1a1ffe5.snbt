@@ -1,0 +1,12 @@
+{
+	x: -3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "ea8974e7",
+		type: "item",
+		items: [{
+			item: "forestry:carpenter"
+		}],
+		consume_items: true
+	}]
+}

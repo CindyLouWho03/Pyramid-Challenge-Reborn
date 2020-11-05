@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "b67668de",
+		type: "item",
+		items: [{
+			item: "projectred-integration:gate 1 15"
+		}],
+		consume_items: true
+	}]
+}

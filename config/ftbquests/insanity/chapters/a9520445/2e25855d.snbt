@@ -1,0 +1,12 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "d84f8a57",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 44"
+		}],
+		consume_items: true
+	}]
+}

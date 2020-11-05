@@ -1,0 +1,9 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "7acb51ee",
+		type: "ic2_energy",
+		value: 10000000L
+	}]
+}

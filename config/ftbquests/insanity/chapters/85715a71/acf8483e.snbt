@@ -1,0 +1,16 @@
+{
+	title: "Gourd Farm",
+	x: 1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "969584d4",
+		type: "item",
+		items: [{
+			item: "forestry:farm_gourd"
+		},
+		{
+			item: "forestry:farm_gourd 1 1"
+		}],
+		consume_items: true
+	}]
+}

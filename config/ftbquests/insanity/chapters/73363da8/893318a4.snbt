@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "cc57ab26",
+		type: "item",
+		items: [{
+			item: "minecraft:piston"
+		}],
+		consume_items: true
+	}]
+}

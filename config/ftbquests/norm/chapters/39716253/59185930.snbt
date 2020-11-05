@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: -11.0d,
+	tasks: [{
+		uid: "2f9907df",
+		type: "item",
+		items: [{
+			id: "forestry:can",
+			tag: {
+				Fluid: {
+					FluidName: "bio.ethanol",
+					Amount: 1000
+				}
+			},
+			Damage: 1s
+		}],
+		count: 64L,
+		consume_items: true
+	}]
+}

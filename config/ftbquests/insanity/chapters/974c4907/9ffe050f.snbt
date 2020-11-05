@@ -1,0 +1,8 @@
+{
+	x: 1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "76abfe55",
+		type: "custom"
+	}]
+}

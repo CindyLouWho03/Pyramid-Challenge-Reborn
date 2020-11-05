@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "a1e231ce",
+		type: "item",
+		items: [{
+			item: "buildcraftcompat:pipe_item_propolis"
+		}],
+		count: 64L,
+		consume_items: true
+	}]
+}

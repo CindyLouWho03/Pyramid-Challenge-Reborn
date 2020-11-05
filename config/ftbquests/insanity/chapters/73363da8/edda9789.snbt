@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "9ed4150e",
+		type: "item",
+		items: [{
+			item: "projectred-expansion:machine2 1 1"
+		}],
+		consume_items: true
+	}]
+}

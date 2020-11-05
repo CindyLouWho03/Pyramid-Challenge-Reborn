@@ -1,0 +1,27 @@
+{
+	disable_toast: true,
+	x: -14.0d,
+	y: -6.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "ffbba751",
+		type: "location",
+		title: "Start Timer",
+		disable_toast: true,
+		location: [I;
+			0,
+			14,
+			67,
+			40,
+			1,
+			1,
+			1
+		]
+	}],
+	rewards: [{
+		uid: "fc8057e9",
+		type: "command",
+		auto: "enabled",
+		command: "/igt start"
+	}]
+}

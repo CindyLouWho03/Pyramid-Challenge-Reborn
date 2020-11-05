@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "560eba96",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_time_watch",
+			tag: {}
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

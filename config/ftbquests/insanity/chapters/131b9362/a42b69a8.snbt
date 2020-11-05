@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "59ce1a1c",
+		type: "item",
+		items: [{
+			id: "ic2:nano_chestplate",
+			tag: {},
+			Damage: 26s
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

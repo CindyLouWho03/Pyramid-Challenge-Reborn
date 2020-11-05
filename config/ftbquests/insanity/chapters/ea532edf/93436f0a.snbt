@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "c8d1c3f2",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:strong_regeneration"
+			}
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

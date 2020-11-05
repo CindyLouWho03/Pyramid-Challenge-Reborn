@@ -1,0 +1,12 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "fc7b0ee1",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:engine 1 2"
+		}],
+		consume_items: true
+	}]
+}

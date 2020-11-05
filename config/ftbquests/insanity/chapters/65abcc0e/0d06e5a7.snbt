@@ -1,0 +1,12 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "f105528e",
+		type: "item",
+		items: [{
+			item: "projecte:dm_pedestal"
+		}],
+		consume_items: true
+	}]
+}

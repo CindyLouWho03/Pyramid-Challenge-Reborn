@@ -1,0 +1,12 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "b2ecf5f4",
+		type: "item",
+		items: [{
+			item: "wrcbe:material 1 1"
+		}],
+		consume_items: true
+	}]
+}

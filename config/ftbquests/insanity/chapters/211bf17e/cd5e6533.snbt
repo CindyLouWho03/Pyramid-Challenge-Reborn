@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "7e0ed335",
+		type: "item",
+		items: [{
+			id: "forestry:refractory",
+			tag: {
+				Fluid: {
+					FluidName: "water",
+					Amount: 1000
+				}
+			},
+			Damage: 1s
+		}],
+		count: 64L,
+		consume_items: true
+	}]
+}

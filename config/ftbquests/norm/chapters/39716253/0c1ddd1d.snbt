@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "7eff908c",
+		type: "item",
+		items: [{
+			item: "buildcraftbuilders:builder"
+		}],
+		consume_items: true
+	}]
+}

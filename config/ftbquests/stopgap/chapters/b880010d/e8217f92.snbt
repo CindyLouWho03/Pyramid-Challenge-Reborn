@@ -1,0 +1,12 @@
+{
+	x: -2.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "79560351",
+		type: "item",
+		items: [{
+			item: "contenttweaker:companion_cube"
+		}],
+		consume_items: true
+	}]
+}

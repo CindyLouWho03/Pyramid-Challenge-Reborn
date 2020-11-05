@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "857aef11",
+		type: "item",
+		items: [{
+			item: "buildcraftbuilders:quarry"
+		}],
+		consume_items: true
+	}]
+}

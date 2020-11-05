@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "007a867e",
+		type: "item",
+		items: [{
+			item: "advanced_machines:machines 1 3"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "976f29f1",
+		type: "item",
+		items: [{
+			item: "projectred-expansion:solar_panel"
+		}],
+		consume_items: true
+	}]
+}
