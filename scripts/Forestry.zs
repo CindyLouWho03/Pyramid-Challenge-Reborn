@@ -1,12 +1,14 @@
-//Pyramid Challenge Reborn
-//Developed by CrankySupertoon 
+# = = = = = = = = = = = = = =
+#  Pyramid Challenge Reborn
+#     Developed by Nora    
+# = = = = = = = = = = = = = = 
 
 import mods.jei.JEI.hide;
 import mods.jei.JEI.removeAndHide;
 
 print("Initializing 'Forestry.zs'...");
 
-//Change Legacy Type Forestry Farms To Retro Recipes
+//Change Legacy Recipes for Forestry Farms To Retro Recipes
 removeAndHide(<forestry:farm_ender:1>);
 removeAndHide(<forestry:farm_ender>);
 recipes.remove(<forestry:farm_mushroom>);

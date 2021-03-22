@@ -3,5 +3,5 @@
     "minecraftVersion": "1.12.2",
     "modLoader": "forge",
     "modLoaderVersion": "14.23.5.2854",
-    "includes": ["config", "ic2_profiles", "resources", "resourcepacks", "scripts"]
+    "includes": ["config", "ic2_profiles", "resources", "scripts"]
 }

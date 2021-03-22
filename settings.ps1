@@ -2,146 +2,128 @@
 # For details/help see: https://github.com/NillerMedDild/ModpackUploader
 
 # =====================================================================//
-# CURSEFORGE SETTINGS
+#  CURSEFORGE ACCOUNT SETTINGS
 # =====================================================================//
 
-$CURSEFORGE_USER = "CrankySupertoon"
-
-# For details see: https://www.curseforge.com/account/api-tokens
-$CURSEFORGE_TOKEN = "keything-goes-here"
+$CURSEFORGE_USER = "MyUserName"
 
 # ProjectID can be found on the modpack's Curseforge Projects page, under "About This Project"
-$CURSEFORGE_PROJECT_ID = 251553
+$CURSEFORGE_PROJECT_ID = 999999
+
 
 #=====================================================================//
-# DEPENDENCIES URL
+#  DEPENDENCIES URL
 #=====================================================================//
 
 # File name of the latest https://github.com/Gaz492/twitch-export-builder/releases
-$TwitchExportBuilderDL = "twitch-export-builder_windows_amd64.exe"
-$TwitchExportBuilderLinuxDL = "twitch-export-builder_linux_amd64"
+$TwitchExportBuilderDLWindows = "twitch-export-builder_windows_amd64.exe"
+$TwitchExportBuilderDLLinux = "twitch-export-builder_linux_amd64"
+$TwichExportBuilderDLMac = "twitch-export-builder_darwin_amd64"
 
 # File name of the latest https://github.com/TheRandomLabs/ChangelogGenerator/releases
-$ChangelogGeneratorDL = "ChangelogGenerator-2.0.0-pre3.jar"
+$ChangelogGeneratorDL = "ChangelogGenerator-2.0.0-pre10.jar"
+
+# File name of the latest https://github.com/CrankySupertoon/ModPackDownloader/releases
+$ModpackDownloaderDL = "ModpackDownloader-cli-0.6.1.jar"
 
 # =====================================================================//
-# MODPACK SETTINGS
+#  MAIN MODPACK SETTINGS
 # =====================================================================//
+
+# This is the Pack Name
+$CLIENT_FANCY_NAME = "Pyramid Challenge Reborn"
+
+# Name of the Modpack in the ZIP File
+$CLIENT_NAME = "PyramidChallengeReborn"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "2.2.0"
+$MODPACK_VERSION = "2.3.0"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "2.1.1"
-$CLIENT_NAME = "PyramidChallenge"
-$LAST_MODPACK_ZIP_NAME = "Curse-$CLIENT_NAME-$LAST_MODPACK_VERSION"
+$LAST_MODPACK_VERSION = "2.2.2"
 
-# Modpacks Forge Version: 
-# Default: "14.23.5.2836"
+# Modpacks Forge Version:
+# Default: "14.23.5.2854"
 $FORGE_VERSION=14.23.5.2854
 
-# An array of compatible game versions of Minecraft.
-# See GameVersions.json for possible versions.
-# @(6756) - is Minecraft 1.12.2
-# @(7722) - is Minecraft 1.15.2
-$GAME_VERSIONS = @(6756)
 
 # =====================================================================//
-#  CURSE PACK SETTINGS
+#  CHANGELOG SETTINGS
 # =====================================================================//
 
-# Name of the Modpack in the ZIP File
-$CLIENT_NAME = "PyramidChallenge"
-$CLIENT_ZIP_NAME = "Curse-$CLIENT_NAME-$MODPACK_VERSION"
-
-# Display Name of the Modpack on CurseForge
-# Default: "$CLIENT_FANCY_NAME $MODPACK_VERSION"
-$CLIENT_FANCY_NAME = "Pyramid Challenge Reborn"
-$CLIENT_FILE_DISPLAY_NAME = "$CLIENT_FANCY_NAME - $MODPACK_VERSION"
-
-# A continuous line of the folders and files (with extensions) to zip into Curse Files.
-# Default: @("mods", "config")
-$CONTENTS_TO_ZIP_CURSE = "mods", "config", "ic2_profiles", "resources", "resourcepacks", "scripts"
-
+# Changelog Type
 # Can be "markdown", "text" or "html"
 $CLIENT_CHANGELOG_TYPE = "html"
 
+# Changelog
 # Must be a single string. Use Powershell escaping for new lines etc. New line is `n and indent is `t
 $CLIENT_CHANGELOG = "Empty"
 
+
+# =====================================================================//
+#  CURSEFORGE PROJECT SETTINGS
+# =====================================================================//
+
+# Modpack's Minecraft Version
+# @(6756) - is Minecraft 1.12.2
+# @(7722) - is Minecraft 1.15.2
+# @(8134) - is Minecraft 1.16.4
+# More can be found by running GetGameVersions
+$GAME_VERSIONS = @(6756)
+
 # Can be "alpha", "beta" or "release"
 $CLIENT_RELEASE_TYPE = "release"
+
+
+#=====================================================================//
+#  CURSEFORGE CLIENT FILE SETTINGS
+#=====================================================================//
+
+# All of these are defined in .build.json. # Sorry for the inconvience.
+
 
 #=====================================================================//
 #  SERVER FILE SETTINGS
 #=====================================================================//
 
+# List of Mods to remove for the Server
 # In the format @("filename", "filename")
-$CLIENT_MODS_TO_REMOVE_FROM_SERVER_FILES = @()
-
-# Default: "$CLIENT_FILENAME Server $MODPACK_VERSION"
-$SERVER_ZIP_NAME = "Server-$CLIENT_NAME-$MODPACK_VERSION"
-
-# Default: $SERVER_FILENAME
-$SERVER_FILE_DISPLAY_NAME = "$CLIENT_FANCY_NAME Server $MODPACK_VERSION"
+$CLIENT_MODS_TO_REMOVE_FROM_SERVER_FILES = @("betterchat-1.4.jar", "Blur-1.0.4-14.jar", "Controlling-3.0.10.jar", "CrashToMainMenu-client-1.12.2-1.0.0.jar", "CustomBackgrounds-MC1.12-1.1.1.jar", "CustomMainMenu-MC1.12.2-2.0.9.1.jar", "Ding-1.12.2-1.0.2.jar", "forgemod_VoxelMap-1.9.28_for_1.12.2.jar", "FullscreenWindowed-1.12-1.6.0.jar", "gibmemojangstudio-1.0.0.jar", "keywizard-1.12.2-1.7.3.jar", "LoadingScreens-1.12.2-0.3.1.jar", "MadHelp-1.12.2-3.0.0-universal.jar", "MainMenuScale-1.3.2.jar", "moreoverlays-1.15.1-mc1.12.2.jar", "Notes-1.12-1.1.1.jar", "reauth-3.6.0.jar", "ResourceLoader-MC1.12.1-1.5.3.jar", "ResourceReloader-1.0.2.5.jar", "shutupmodelloader-1.12.2-1.0.0.jar", "smooth-scrolling-everywhere-1.1.jar", "ungrabmouse-2.2.jar")
 
 # A continuous line of the folders and files (with extensions) to zip into Server Files.
 # Default: @("mods", "config")
-$CONTENTS_TO_ZIP_SERVER = "mods", "config", "ic2_profiles", "scripts", "maps"
-
-# Can be "markdown", "text" or "html"
-# Default: $CLIENT_CHANGELOG_TYPE
-$SERVER_CHANGELOG_TYPE = $CLIENT_CHANGELOG_TYPE
-
-# Must be a single string. Use Powershell escaping for new lines etc. New line is `n and indent is `t
-# Default: $CLIENT_CHANGELOG
-$SERVER_CHANGELOG = $CLIENT_CHANGELOG
-
-# Can be "alpha", "beta" or "release"
-# Default: $CLIENT_RELEASE_TYPE
-$SERVER_RELEASE_TYPE = $CLIENT_RELEASE_TYPE
+$SERVER_CONTENTS_TO_ZIP = @("mods", "config", "ic2_profiles", "scripts", "maps")
 
 # =====================================================================//
 #  MODULES
 # =====================================================================//
 
-# Toggle twitch-export-builder (automatic building of the manifest zip) on/off
+# Toggles CurseForge Client Files Generation
 # Default: $true
-$ENABLE_MANIFEST_BUILDER_MODULE = $true
+$ENABLE_CURSE_CLIENT_MODULE = $true
 
-# Toggle the modpack uploader on/off
-# Setting this to $false will also disable the Server File and Changelog Generator Modules.
+# Toggles Modpack Uploading to CurseForge
 # Default: $true
-$ENABLE_MODPACK_UPLOADER_MODULE = $true
+$ENABLE_MODPACK_UPLOADER_MODULE = $false
 
-# Toggle server file feature on/off
+# Toggles Server Files
 # Default: $true
 $ENABLE_SERVER_FILE_MODULE = $true
 
-# Toggle multimc file feature on/off
-# Default: $true
-$ENABLE_MMC_FILE_MODULE = $false
-
-# Toggle automatic changelog generator on/off
-# This module requires an older modpack manifest zip to be present, 
+# Toggles Changelog Generation. This Reauires an Older Version of the Pack
 # Default: $false
-$ENABLE_CHANGELOG_GENERATOR_MODULE = $frue
+$ENABLE_CHANGELOG_GENERATOR_MODULE=$true
 
-# Toggle removal and re-download of jars on/off.	
-# Setting this to true will ensure that you always have the latest 	
-# Twitch Export Builder and ChangelogGenerator, but increases the	
-# amount of time the script takes to finish.	
-# Default: $false	
+# Toggles the Redownloadment or Thrid Party Dependencies Every Time you Conpile the Pack
+# Default: $false
 $ENABLE_ALWAYS_UPDATE_JARS = $false
 
-# Toggles extra logging on/off.
-# Recommended if you're having trouble making the Modpack Uploader
-# work.
+# Toggles Extra Logging on/off.
 # Default: $false
 $ENABLE_EXTRA_LOGGING = $false
 
-# Toggles github changelog generator integration on/off.
+# Toggles GitHub Changelog Generator integration on/off.
 # Requires extensive setup, this is an advanced step.
 # See below link for info:
 # https://github.com/github-changelog-generator/github-changelog-generator
@@ -151,3 +133,39 @@ $GITHUB_NAME = "MyName"
 $GITHUB_TOKEN = "$GITHUB_NAME`:MyToken"
 $GITHUB_REPOSITORY = "MyRepo"
 $CHANGES_SINCE_VERSION = "1.0.0"
+
+# =====================================================================//
+#  ADVANCED
+#  Do not change anything unless you
+#  know what you are doing!
+# =====================================================================//
+
+# Syntax of the Client ZIP File
+$CLIENT_ZIP_NAME = "$CLIENT_NAME-$MODPACK_VERSION"
+
+# Syntax of the Previous Versions Client ZIP File
+$LAST_CLIENT_ZIP_NAME = "$CLIENT_NAME-$LAST_MODPACK_VERSION"
+
+# Syntax of the Display name on CurseForge
+$CLIENT_FILE_DISPLAY_NAME = "$CLIENT_FANCY_NAME $MODPACK_VERSION"
+
+# ZIP Name for the Server Files
+# This reads the values above and ammends server onto it.
+$SERVER_ZIP_NAME = "$CLIENT_NAME-Server-$MODPACK_VERSION"
+
+# Display Name for the Server Files
+# This reads the values above and ammends server onto it.
+$SERVER_FILE_DISPLAY_NAME = "$CLIENT_FANCY_NAME Server $MODPACK_VERSION"
+
+# Can be "markdown", "text" or "html"
+# Default: $CLIENT_CHANGELOG_TYPE
+$SERVER_CHANGELOG_TYPE = $CLIENT_CHANGELOG_TYPE
+
+# Changelog for the Server
+# Must be a single string. Use Powershell escaping for new lines etc. New line is `n and indent is `t
+# Default: $CLIENT_CHANGELOG
+$SERVER_CHANGELOG = $CLIENT_CHANGELOG
+
+# Release Type for Server Files on CurseForge
+# Can be "alpha", "beta" or "release"
+$SERVER_RELEASE_TYPE = $CLIENT_RELEASE_TYPE

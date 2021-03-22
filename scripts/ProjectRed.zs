@@ -1,5 +1,7 @@
-//Pyramid Challenge Reborn
-//Developed by CrankySupertoon 
+# = = = = = = = = = = = = = =
+#  Pyramid Challenge Reborn
+#     Developed by Nora    
+# = = = = = = = = = = = = = =
 
 import moretweaker.quacklib.AlloyFurnace;
 import mods.jei.JEI.hide;
@@ -8,7 +10,7 @@ import mods.jei.JEI.removeAndHide;
 print("Initializing 'ProjectRed.zs'...");
 
 //Block Breaker Fix
-removeAndHide(<projectred-expansion:machine2>); //Remove Normal Blcok Breaker
+removeAndHide(<projectred-expansion:machine2>); //Remove Normal BloCk Breaker
 <projectred-expansion:machine2:12>.displayName = "Block Breaker"; //Rename Diamond Block Breaker to Block Breaker
 recipes.remove(<projectred-expansion:machine2:12>); // Change Block Breaker Recipe
 recipes.addShaped(<projectred-expansion:machine2:12>, [[<minecraft:cobblestone>, <minecraft:iron_pickaxe>, <minecraft:cobblestone>],[<minecraft:cobblestone>, <minecraft:piston>, <minecraft:cobblestone>], [<minecraft:cobblestone>, <minecraft:redstone>, <minecraft:cobblestone>]]); // Change Block Breaker Recipe

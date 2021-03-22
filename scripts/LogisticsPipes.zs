@@ -1,5 +1,7 @@
-//Pyramid Challenge Reborn
-//Developed by CrankySupertoon 
+# = = = = = = = = = = = = = =
+#  Pyramid Challenge Reborn
+#     Developed by Nora    
+# = = = = = = = = = = = = = =
 
 print("Initializing 'LogisticsPipes.zs'...");
 

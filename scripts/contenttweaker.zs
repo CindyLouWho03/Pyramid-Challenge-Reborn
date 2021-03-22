@@ -1,5 +1,8 @@
-//Pyramid Challenge Reborn
-//Developed by CrankySupertoon 
+# = = = = = = = = = = = = = =
+#  Pyramid Challenge Reborn
+#     Developed by Nora    
+# = = = = = = = = = = = = = =
+
 #priority 1000
 #loader contenttweaker
 
