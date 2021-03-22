@@ -38,7 +38,9 @@ waypoints_0.png
 
 #Binaries
 tools/TwitchExportBuilder
+tools/TwitchExportBuilder.exe
 tools/ModpackDownloader.jar
+tools/ChangelogGenerator.jar
 
 #Mod Version Controlling
 #settings.ps1
