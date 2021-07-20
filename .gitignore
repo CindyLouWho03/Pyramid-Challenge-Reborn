@@ -1,4 +1,6 @@
 #Game Junk
+.curseclient
+.mixin.out/
 asm/
 background.png
 backups/
@@ -14,7 +16,9 @@ knownkeys.txt
 local/
 logs/
 manifest.json
+minecraftinstance.json
 mobs_0.png
+modlist.html
 mputils/
 natives/
 new.json
@@ -24,10 +28,11 @@ options.txt
 patchouli_books/
 patchouli_data.json
 pings_0.png
-.ReAuth
+.ReAuth.cfg
 reports/
 saves/
 screenshots/
+seen_buildersbag_addons.txt
 temp/
 tmp/
 usercache.json

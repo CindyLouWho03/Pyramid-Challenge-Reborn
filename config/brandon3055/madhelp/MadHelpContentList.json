@@ -6,8 +6,8 @@
 		"info": [
 			"[c]The harder version of the FTB Pyramid Map"
 		],
-		"releaseNumber": "1",
-		"downloadURL": "https://cdn.crankysupertoon.live/dist/packs/pyramid/maps/Insanity.zip",
+		"releaseNumber": "2",
+		"downloadURL": "https://cdn-crankysupertoon.netlify.app/dist/packs/pyramid/maps/Insanity.zip",
 		"isRegional": false,
 		"regionInputPath": "",
 		"regionOutputPath": ""
@@ -19,8 +19,8 @@
 		"info": [
 			"[c]Original FTB Pyramid Map"
 		],
-		"releaseNumber": "0",
-		"downloadURL": "https://cdn.crankysupertoon.live/dist/packs/pyramid/maps/Normal.zip",
+		"releaseNumber": "1",
+		"downloadURL": "https://cdn-crankysupertoon.netlify.app/dist/packs/pyramid/maps/Normal.zip",
 		"isRegional": false,
 		"regionOutputPath": "",
 		"regionOutputPath": ""
@@ -32,8 +32,8 @@
 		"info": [
 			"[c]Original FTB Bedrock Map"
 		],
-		"releaseNumber": "0",
-		"downloadURL": "https://cdn.crankysupertoon.live/dist/packs/pyramid/maps/Stopgap.zip",
+		"releaseNumber": "1",
+		"downloadURL": "https://cdn-crankysupertoon.netlify.app/dist/packs/pyramid/maps/Stopgap.zip",
 		"isRegional": false,
 		"regionInputPath": "",
 		"regionOutputPath": ""

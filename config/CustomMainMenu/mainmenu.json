@@ -1,4 +1,3 @@
-//Coded by CrankySupertoon
 {
 
     "buttons": {
@@ -164,8 +163,8 @@
             "alignment": "bottom_right"
         },
         "mojang": {
-            "text": "Copyright Mojang AB & CrankySupertoon",
-            "posX": -207,
+            "text": "Made with Love by Nora",
+            "posX": -120,
             "posY": -10,
             "fontSize": 1,
             "color": -1,

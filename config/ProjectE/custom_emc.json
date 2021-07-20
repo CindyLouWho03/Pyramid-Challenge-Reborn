@@ -119,6 +119,10 @@
     {
       "item": "buildcraftsilicon:redstone_chipset|3",
       "emc": 0
+    },
+    {
+      "item": "modularforcefieldsystem:forcicium|0",
+      "emc": 16684
     }
   ]
 }

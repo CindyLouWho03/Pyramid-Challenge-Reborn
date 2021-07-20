@@ -1,7 +1,7 @@
 {
-    "packAuthor": "CrankySupertoon",
+    "packAuthor": "UnicorNora",
     "minecraftVersion": "1.12.2",
     "modLoader": "forge",
-    "modLoaderVersion": "14.23.5.2854",
+    "modLoaderVersion": "14.23.5.2855",
     "includes": ["config", "ic2_profiles", "resources", "scripts"]
 }

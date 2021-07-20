@@ -5,10 +5,10 @@
 #  CURSEFORGE ACCOUNT SETTINGS
 # =====================================================================//
 
-$CURSEFORGE_USER = "MyUserName"
+$CURSEFORGE_USER = "UnicorNora"
 
 # ProjectID can be found on the modpack's Curseforge Projects page, under "About This Project"
-$CURSEFORGE_PROJECT_ID = 999999
+$CURSEFORGE_PROJECT_ID = 251553
 
 
 #=====================================================================//
@@ -37,15 +37,15 @@ $CLIENT_FANCY_NAME = "Pyramid Challenge Reborn"
 $CLIENT_NAME = "PyramidChallengeReborn"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "2.3.0"
+$MODPACK_VERSION = "2.4.0"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "2.2.2"
+$LAST_MODPACK_VERSION = "2.3.2"
 
 # Modpacks Forge Version:
 # Default: "14.23.5.2854"
-$FORGE_VERSION=14.23.5.2854
+$FORGE_VERSION=14.23.5.2855
 
 
 # =====================================================================//
@@ -80,7 +80,8 @@ $CLIENT_RELEASE_TYPE = "release"
 #  CURSEFORGE CLIENT FILE SETTINGS
 #=====================================================================//
 
-# All of these are defined in .build.json. # Sorry for the inconvience.
+# All of these are defined in .build.json. 
+# Sorry for the inconvience.
 
 
 #=====================================================================//
@@ -105,7 +106,7 @@ $ENABLE_CURSE_CLIENT_MODULE = $true
 
 # Toggles Modpack Uploading to CurseForge
 # Default: $true
-$ENABLE_MODPACK_UPLOADER_MODULE = $false
+$ENABLE_MODPACK_UPLOADER_MODULE = $true
 
 # Toggles Server Files
 # Default: $true
